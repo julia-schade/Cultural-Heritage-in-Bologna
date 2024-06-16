@@ -365,7 +365,9 @@ FILTER (REGEX(?collectionLabel, "collezione aldrovandi", "i"))
   </tr>
 </tbody></table>
 
-> Comment: *Now we have the raw basis for our project, as we were looking for cultural entity collections, we now have the items of the two collections of Collezione Marsili and Collezione Aldrovandi.*
+> *Now we have the raw basis for our project, as we were looking for cultural entity collections, we now have the items of the two collections of Collezione Marsili and Collezione Aldrovandi.*
+
+# Start of the Project
 
 
 
