@@ -14,6 +14,7 @@ WHERE {
 > *It looks for cultural entity collections and finds their members. The result includes the collection and each item that is a member of that collection.*
 >
 > > *To show that the code works, here is our result, we put only the **10 items as an example for every query**, this was also done with LIMIT.*
+
 <table class="table table-striped table-sm table-borderless">
   <tbody><tr>
     <th>collection</th>
@@ -74,6 +75,7 @@ WHERE {
  ?collectionmemb arco-cd:hasMemberOfCollection ?item.
 } LIMIT 100
 ```
+
 <table class="table table-striped table-sm table-borderless">
   <tbody><tr>
     <th>collection</th>
@@ -137,6 +139,7 @@ WHERE {
   FILTER (REGEX(?collectionLabel, "collezione marsili", "i"))
 } LIMIT 100
 ```
+
 <table class="table table-striped table-sm table-borderless">
   <tbody><tr>
     <th>collection</th>
@@ -196,6 +199,7 @@ WHERE {
   FILTER (REGEX(?collectionLabel, "collezione aldrovandi", "i"))
 } LIMIT 100
 ```
+
 <table class="table table-striped table-sm table-borderless">
   <tbody><tr>
     <th>collection</th>
@@ -258,6 +262,7 @@ WHERE {
 FILTER (REGEX(?collectionLabel, "collezione marsili", "i")) 
 } LIMIT 100
 ```
+
 <table class="table table-striped table-sm table-borderless">
   <tbody><tr>
     <th>collection</th>
@@ -318,6 +323,7 @@ WHERE { ?collection a cis:CollectionCulEnt.
 FILTER (REGEX(?collectionLabel, "collezione aldrovandi", "i")) 
 } LIMIT 100
 ```
+
 <table class="table table-striped table-sm table-borderless">
   <tbody><tr>
     <th>collection</th>
