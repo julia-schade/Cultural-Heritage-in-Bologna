@@ -17,7 +17,7 @@ It looks for cultural entity collections and finds their members. The result inc
 
 To show that the code works, here is our result, this was also done with LIMIT.
 
-> :bulb: **Important** we put only the **10 items as an example for every query**. 
+> 💡 We put only the **10 items as an example for every query**. 
 
 <table width="200" height="300">
   <tbody><tr>
