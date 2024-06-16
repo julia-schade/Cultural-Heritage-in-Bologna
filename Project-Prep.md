@@ -1,6 +1,6 @@
 # Project Preperations
 
-1. To retrieve up to 100 pairs of collections with **LIMIT** and their items, first	we started from the example on Arco website:
+#### 1. To retrieve up to 100 pairs of collections with **LIMIT** and their items, first	we started from the example on Arco website:
 
 ```SPARQL
 PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
@@ -13,11 +13,14 @@ WHERE {
 } LIMIT 100
 ```
 
-> It looks for cultural entity collections and finds their members. The result includes the collection and each item that is a member of that collection.
->
-> > To show that the code works, here is our result, we put only the **10 items as an example for every query**, this was also done with LIMIT.
+It looks for cultural entity collections and finds their members. The result includes the collection and each item that is a member of that collection.
 
-<table class="table table-striped table-sm table-borderless" width="300" height="500">
+To show that the code works, here is our result, this was also done with LIMIT.
+
+> [!IMPORTANT]
+> we put only the **10 items as an example for every query**, 
+
+<table width="200" height="300">
   <tbody><tr>
     <th>collection</th>
     <th>item</th>
@@ -64,11 +67,12 @@ WHERE {
   </tr>
 </tbody></table>
 
-1.1 We eliminate the duplicates with **DISTINCT**
+##### 1.1 We eliminate the duplicates with **DISTINCT**
 
-> *SELECT DISTINCT ?collection ?item: Adding DISTINCT ensures that each combination of ?collection and ?item in the result set is unique, thereby removing duplicates.*
+SELECT DISTINCT ?collection ?item: Adding DISTINCT ensures that each combination of ?collection and ?item in the result set is unique, thereby removing duplicates.
 
-```PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
+```SPARQL
+PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
 PREFIX cis: <http://dati.beniculturali.it/cis/>
 SELECT DISTINCT ?collection ?item
 WHERE {
@@ -78,7 +82,7 @@ WHERE {
 } LIMIT 100
 ```
 
-<table class="table table-striped table-sm table-borderless">
+<table width="200" height="300">
   <tbody><tr>
     <th>collection</th>
     <th>item</th>
@@ -125,13 +129,14 @@ WHERE {
   </tr>
 </tbody></table>
 
-2. We want to know which items are part of Collezione Marsili and Aldrovandi
+##### 2. We want to know which items are part of Collezione Marsili and Aldrovandi
 
-> Comment: *We seperate the two collections.*
+We seperate the two collections.
 
-2.1 Collezione Marsili
+##### 2.1 Collezione Marsili
 
-```PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
+```SPARQL
+PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
 PREFIX cis: <http://dati.beniculturali.it/cis/>
 SELECT ?collection ?item
 WHERE {
@@ -143,7 +148,7 @@ WHERE {
 } LIMIT 100
 ```
 
-<table class="table table-striped table-sm table-borderless">
+<table width="200" height="300">
   <tbody><tr>
     <th>collection</th>
     <th>item</th>
@@ -190,9 +195,10 @@ WHERE {
   </tr>
 </tbody></table>
 
-2.2 Collezione Aldrovandi
+##### 2.2 Collezione Aldrovandi
 
-```PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
+```SPARQL
+PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
 PREFIX cis: <http://dati.beniculturali.it/cis/>
 SELECT ?collection ?item
 WHERE {
@@ -204,7 +210,7 @@ WHERE {
 } LIMIT 100
 ```
 
-<table class="table table-striped table-sm table-borderless">
+<table width="200" height="300">
   <tbody><tr>
     <th>collection</th>
     <th>item</th>
@@ -251,11 +257,12 @@ WHERE {
   </tr>
 </tbody></table>
 
-3. We want to apply **DISTINCT** to eliminate the duplicates
+#### 3. We want to apply **DISTINCT** to eliminate the duplicates
 
-3.1 DISTINCT for Collezione Marsili
+##### 3.1 DISTINCT for Collezione Marsili
 
-```PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/> 
+```SPARQL
+PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/> 
 PREFIX cis: <http://dati.beniculturali.it/cis/> 
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
 SELECT DISTINCT ?collection ?item 
@@ -268,7 +275,7 @@ FILTER (REGEX(?collectionLabel, "collezione marsili", "i"))
 } LIMIT 100
 ```
 
-<table class="table table-striped table-sm table-borderless">
+<table width="200" height="300">
   <tbody><tr>
     <th>collection</th>
     <th>item</th>
@@ -315,9 +322,10 @@ FILTER (REGEX(?collectionLabel, "collezione marsili", "i"))
   </tr>
 </tbody></table>
 
-3.2 DISTINCT for Collezione Aldrovandi
+##### 3.2 DISTINCT for Collezione Aldrovandi
 
-```PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/> 
+```SPARQL
+PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/> 
 PREFIX cis: <http://dati.beniculturali.it/cis/> 
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
 SELECT DISTINCT ?collection ?item 
@@ -330,7 +338,7 @@ FILTER (REGEX(?collectionLabel, "collezione aldrovandi", "i"))
 } LIMIT 100
 ```
 
-<table class="table table-striped table-sm table-borderless">
+<table width="200" height="300">
   <tbody><tr>
     <th>collection</th>
     <th>item</th>
@@ -377,7 +385,7 @@ FILTER (REGEX(?collectionLabel, "collezione aldrovandi", "i"))
   </tr>
 </tbody></table>
 
-> *Now we have the raw basis for our project, as we were looking for cultural entity collections, we now have the items of the two collections of Collezione Marsili and Collezione Aldrovandi.*
+Now we have the raw basis for our project, as we were looking for cultural entity collections, we now have the items of the two collections of Collezione Marsili and Collezione Aldrovandi.
 
 # Start of the Project
 
