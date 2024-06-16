@@ -2,7 +2,8 @@
 
 1. To retrieve up to 100 pairs of collections with **LIMIT** and their items, first	we started from the example on Arco website:
 
-```PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
+```SPARQL
+PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
 PREFIX cis: <http://dati.beniculturali.it/cis/>
 SELECT ?collection ?item
 WHERE {
@@ -12,9 +13,9 @@ WHERE {
 } LIMIT 100
 ```
 
-It looks for cultural entity collections and finds their members. The result includes the collection and each item that is a member of that collection.
-
-To show that the code works, here is our result, we put only the **10 items as an example for every query**, this was also done with LIMIT.
+> It looks for cultural entity collections and finds their members. The result includes the collection and each item that is a member of that collection.
+>
+> > To show that the code works, here is our result, we put only the **10 items as an example for every query**, this was also done with LIMIT.
 
 <table class="table table-striped table-sm table-borderless" width="400" height="300">
   <tbody><tr>
