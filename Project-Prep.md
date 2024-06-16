@@ -17,7 +17,7 @@ WHERE {
 >
 > > To show that the code works, here is our result, we put only the **10 items as an example for every query**, this was also done with LIMIT.
 
-<table class="table table-striped table-sm table-borderless" width="400" height="300">
+<table class="table table-striped table-sm table-borderless" width="300" height="500">
   <tbody><tr>
     <th>collection</th>
     <th>item</th>
