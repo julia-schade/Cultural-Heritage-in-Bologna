@@ -17,8 +17,7 @@ It looks for cultural entity collections and finds their members. The result inc
 
 To show that the code works, here is our result, this was also done with LIMIT.
 
-> [!IMPORTANT]
-> we put only the **10 items as an example for every query**, 
+> :bulb: **Important** we put only the **10 items as an example for every query**. 
 
 <table width="200" height="300">
   <tbody><tr>
@@ -69,7 +68,7 @@ To show that the code works, here is our result, this was also done with LIMIT.
 
 ##### 1.1 We eliminate the duplicates with **DISTINCT**
 
-SELECT DISTINCT ?collection ?item: Adding DISTINCT ensures that each combination of ?collection and ?item in the result set is unique, thereby removing duplicates.
+`SELECT DISTINCT ?collection ?item:` Adding DISTINCT ensures that each combination of `?collection` and `?item` in the result set is unique, thereby removing duplicates.
 
 ```SPARQL
 PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
