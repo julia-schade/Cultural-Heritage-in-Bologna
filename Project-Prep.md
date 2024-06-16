@@ -11,6 +11,7 @@ WHERE {
  ?collectionmemb arco-cd:hasMemberOfCollection ?item.
 } LIMIT 100
 ```
+
 > *It looks for cultural entity collections and finds their members. The result includes the collection and each item that is a member of that collection.*
 >
 > > *To show that the code works, here is our result, we put only the **10 items as an example for every query**, this was also done with LIMIT.*
@@ -128,6 +129,7 @@ WHERE {
 > Comment: *We seperate the two collections.*
 
 2.1 Collezione Marsili
+
 ```PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
 PREFIX cis: <http://dati.beniculturali.it/cis/>
 SELECT ?collection ?item
@@ -188,6 +190,7 @@ WHERE {
 </tbody></table>
 
 2.2 Collezione Aldrovandi
+
 ```PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
 PREFIX cis: <http://dati.beniculturali.it/cis/>
 SELECT ?collection ?item
@@ -250,6 +253,7 @@ WHERE {
 3. We want to apply **DISTINCT** to eliminate the duplicates
 
 3.1 DISTINCT for Collezione Marsili
+
 ```PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/> 
 PREFIX cis: <http://dati.beniculturali.it/cis/> 
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
@@ -311,6 +315,7 @@ FILTER (REGEX(?collectionLabel, "collezione marsili", "i"))
 </tbody></table>
 
 3.2 DISTINCT for Collezione Aldrovandi
+
 ```PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/> 
 PREFIX cis: <http://dati.beniculturali.it/cis/> 
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
