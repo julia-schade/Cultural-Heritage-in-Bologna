@@ -12,9 +12,9 @@ WHERE {
 } LIMIT 100
 ```
 
-> *It looks for cultural entity collections and finds their members. The result includes the collection and each item that is a member of that collection.*
->
-> > *To show that the code works, here is our result, we put only the **10 items as an example for every query**, this was also done with LIMIT.*
+It looks for cultural entity collections and finds their members. The result includes the collection and each item that is a member of that collection.
+
+To show that the code works, here is our result, we put only the **10 items as an example for every query**, this was also done with LIMIT.
 
 <table class="table table-striped table-sm table-borderless" width="400" height="300">
   <tbody><tr>
