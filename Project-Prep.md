@@ -17,7 +17,7 @@ It looks for cultural entity collections and finds their members. The result inc
 
 To show that the code works, here is our result, this was also done with LIMIT.
 
-> 💡 We put only the **10 items as an example for every query**. 
+> 💡 We display only **10 items** as an **example** in the tables. 
 
 <table width="200" height="300">
   <tbody><tr>
@@ -131,6 +131,8 @@ WHERE {
 ##### 2. We want to know which items are part of Collezione Marsili and Aldrovandi
 
 We look for the items separately in the two queries.
+
+> We use the keywords FILTER and REGEX for the query and `i` to ignore capital letters.
 
 ##### 2.1 Collezione Marsili
 
@@ -257,6 +259,8 @@ WHERE {
 </tbody></table>
 
 #### 3. We want to apply **DISTINCT** to eliminate the duplicates
+
+> We use the keyword DISTINCT, FILTER and REGEX on both collections.
 
 ##### 3.1 DISTINCT for Collezione Marsili
 
@@ -449,6 +453,7 @@ WHERE {
 }
 ORDER BY ?property
 ```
+> Here we used the keyword **ORDER BY** to find the properties.
 
 <table width="200" height="300">
   <tbody><tr>
@@ -501,9 +506,9 @@ ORDER BY ?property
   </tr>
 </tbody></table>
 
-We can see that the results are that they are related to:
-- Palazzo Poggi (monumental Area)
- - Museo della SPECOLA
- - Museo di PALAZZO POGGI
+We see that the results are related to Palazzo Poggi (monumental Area): 
+- Istituto delle Scienze
+- Museo della SPECOLA
+- Museo di PALAZZO POGGI
 
-Summary: We found the relations and properties to Palazzo Poggi, now we will continue invetigating these pages more in detail to find items that are related to Collezione Marsili and Collezione Aldrovandi.
+Summary: We found the relations and properties to Palazzo Poggi, now we will continue investigating these pages more in detail to find items that are related to Collezione Marsili and Collezione Aldrovandi.
