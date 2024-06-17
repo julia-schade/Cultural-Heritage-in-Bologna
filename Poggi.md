@@ -3,6 +3,6 @@
 Content here.
 
 > 🧭
-> - [*Next Chapter*](Scienze.md) ⏭
-> - [*Previous Chapter*](Project-Prep.md) ⏮
-> - [*Main Page*](index.md) 🏠
+> - [Next ⏭](Scienze.md) 
+> - [Previous ⏮](Project-Prep.md) 
+> - [Home 🏠](index.md) 
