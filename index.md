@@ -13,17 +13,17 @@ Describe how we decide to work
 ### III. Navigation
 Access the following pages to learn more about our project:
 
-- [Project Preperations](Project-Prep.md)
-- [Museo di Palazzo Poggi](Poggi.md)
-  - [Instituto delle Scienze](Scienze.md)
-    - Collezione Marsili
-  - [Museo della Specola](Specola.md)
-    - Collezione Aldrovandi
-- [Conclusion and Limitations](Conslusion.md)
-- [Our Sources](Sources.md)
+1. [Project Preperations](Project-Prep.md)
+2. [Museo di Palazzo Poggi](Poggi.md)
+    - [Instituto delle Scienze](Scienze.md)
+      - Collezione Marsili
+    - [Museo della Specola](Specola.md)
+      - Collezione Aldrovandi
+3. [Conclusion and Limitations](Conslusion.md)
+4. [Our Sources](Sources.md)
 
 
 > 🧭 ← If you see this sign you will be able to jump between pages.
 >
-> [Next ⏭](Project-Prep.md) 
+> - [Next ⏭](Project-Prep.md) 
 
