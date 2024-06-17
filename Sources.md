@@ -7,7 +7,7 @@
 - [Guide](https://www.markdownguide.org/basic-syntax/#lists-1)
 - [Tabs](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
 
-> 💡 to continue reading click on
+> 💡 Navigation:
 
 - [*Previous Chapter*](Conclusion.md) ⏮
-- [*Main Page*](index.md) ⏪
+- [*Main Page*](index.md) 🏠
