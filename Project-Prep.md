@@ -1,6 +1,7 @@
 # Project Preperations
 
-#### 1. To retrieve up to 100 pairs of collections with **LIMIT** and their items, first	we started from the example on Arco website:
+#### 1. We start our idea for the project with the question on *how to find items in the collections?*
+##### To retrieve pairs of the collections and their items, we **LIMIT** with 100. First	we started from the example on Arco website:
 
 ```SPARQL
 PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
@@ -13,7 +14,7 @@ WHERE {
 } LIMIT 100
 ```
 
-It looks for cultural entity collections and finds their members. The result includes the collection and each item that is a member of that collection.
+The code looks for cultural entity collections and finds their members. The result includes the collection and each item that is a member of that collection.
 
 To show that the code works, here is our result, this was also done with LIMIT.
 
