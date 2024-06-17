@@ -1,4 +1,4 @@
-# Project Preperations
+# 1. Project Preperations
 
 #### 1. We start our idea for the project with the question on *how to find items in the collections?*
 ##### To retrieve pairs of the collections and their items, we **LIMIT** with 100. First	we started from the example on Arco website:
