@@ -6,3 +6,8 @@
 - [Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 - [Guide](https://www.markdownguide.org/basic-syntax/#lists-1)
 - [Collapsible Tabs](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
+
+> 💡 to continue reading click on
+
+- [*Previous Chapter*](Museo-Delle-Specola.md) ⏮
+- [*Main Page*](index.md) ⏪
