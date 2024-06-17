@@ -19,8 +19,8 @@ Access the following pages to learn more about our project:
       - Collezione Marsili
     - [Museo della Specola](Specola.md)
       - Collezione Aldrovandi
-3. [Conclusion and Limitations](Conslusion.md)
-4. [Our Sources](Sources.md)
+3. [Conclusion](Conslusion.md)
+4. [Sources](Sources.md)
 
 
 > 🧭 ← If you see this sign you will be able to jump between pages.
