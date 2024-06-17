@@ -23,6 +23,8 @@ Access the following pages to learn more about our project:
 - [Our Sources](Sources.md)
 
 
-> 🧭 ← or follow this sign to jump between chapters.
+> 🧭 ← If you see this sign you will be able to jump between pages.
+>
+> Continue to the next page:
 >
 > - [*Next Chapter*](Project-Prep.md) ⏭ 
