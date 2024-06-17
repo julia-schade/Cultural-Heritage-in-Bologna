@@ -2,7 +2,7 @@
 
 Content here.
 
-> 💡 to continue reading click on
+> 💡 Navigation
 - [*Next Chapter*](Scienze.md) ⏭
 - [*Previous Chapter*](Project-Prep.md) ⏮
-- [*Main Page*](index.md) ⏪
+- [*Main Page*](index.md) 🏠
