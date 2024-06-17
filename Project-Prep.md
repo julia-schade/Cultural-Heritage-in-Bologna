@@ -130,7 +130,7 @@ WHERE {
 
 ##### 2. We want to know which items are part of Collezione Marsili and Aldrovandi
 
-We seperate the two collections.
+We look for the items separately in the two queries.
 
 ##### 2.1 Collezione Marsili
 
@@ -384,9 +384,60 @@ FILTER (REGEX(?collectionLabel, "collezione aldrovandi", "i"))
   </tr>
 </tbody></table>
 
-Now we have the raw basis for our project, as we were looking for cultural entity collections, we now have the items of the two collections of Collezione Marsili and Collezione Aldrovandi.
+Now we have the raw basis for our project, as we were looking for cultural entity collections, we now have the items of the two collections of *Collezione Marsili* and *Collezione Aldrovandi*.
 
-# Start of the Project
+## Our Starting Point
 
+#### 4. We want to know which pages are related to the Monumental Area labeled as *Palazzo Poggi*?
 
+```SPARQL
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT DISTINCT ?site  ?label
+WHERE {
+?site ?property <https://w3id.org/arco/resource/MonumentalArea/palazzo-poggi>.
+?site rdfs:label  ?label.
+}
+```
+We filter with `?site` and with `?label`
+
+<table width="200" height="300">
+  <tbody><tr>
+    <th>site</th>
+    <th>label</th>
+  </tr>
+  <tr>
+    <td><a href="https://w3id.org/arco/resource/Site/10030365c1d4a267a4e7cbf031bd1a6b">https://w3id.org/arco/resource/Site/10030365c1d4a267a4e7cbf031bd1a6b</a></td>
+    <td><pre>"Isituto delle Scienze"</pre></td>
+  </tr>
+  <tr>
+    <td><a href="https://w3id.org/arco/resource/Site/253f678523ccc14d563964cd30d0097a">https://w3id.org/arco/resource/Site/253f678523ccc14d563964cd30d0097a</a></td>
+    <td><pre>"Università degli Studi di Bologna"</pre></td>
+  </tr>
+  <tr>
+    <td><a href="https://w3id.org/arco/resource/Site/27641117e6d58e7482a605fdf544a034">https://w3id.org/arco/resource/Site/27641117e6d58e7482a605fdf544a034</a></td>
+    <td><pre>"Palazzo Poggi"</pre></td>
+  </tr>
+  <tr>
+    <td><a href="https://w3id.org/arco/resource/Site/4dd253f16ef2760bc43d80e96d3118e2">https://w3id.org/arco/resource/Site/4dd253f16ef2760bc43d80e96d3118e2</a></td>
+    <td><pre>"Istituto delle Scienze"</pre></td>
+  </tr>
+  <tr>
+    <td><a href="https://w3id.org/arco/resource/Site/a5e73b25845521559dceef201110b92e">https://w3id.org/arco/resource/Site/a5e73b25845521559dceef201110b92e</a></td>
+    <td><pre>"Istituto delle Scienze"</pre></td>
+  </tr>
+  <tr>
+    <td><a href="https://w3id.org/arco/resource/Site/dd3f107c04684f40f1f413a3955937d5">https://w3id.org/arco/resource/Site/dd3f107c04684f40f1f413a3955937d5</a></td>
+    <td><pre>"Isitituto delle Scienze"</pre></td>
+  </tr>
+  <tr>
+    <td><a href="https://w3id.org/arco/resource/Site/f6654877c6622d13203734d2b2b2333f">https://w3id.org/arco/resource/Site/f6654877c6622d13203734d2b2b2333f</a></td>
+    <td><pre>"Istituto delle Scienze"</pre></td>
+  </tr>
+  <tr>
+    <td><a href="https://w3id.org/arco/resource/Site/f6bb041c26283b0c4af2edd0ed2caef6">https://w3id.org/arco/resource/Site/f6bb041c26283b0c4af2edd0ed2caef6</a></td>
+    <td><pre>"Museo di Palazzo Poggi"</pre></td>
+  </tr>
+</tbody></table>
+
+5. 
 
