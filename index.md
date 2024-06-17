@@ -22,4 +22,5 @@ Access the following pages to learn more about our project:
 - [Conclusion and Limitations](Conslusion.md)
 - [Our Sources](Sources.md)
 
-> 💡 or click on the [*Next Chapter*](Project-Prep.md) ⏭ to continue reading.
+> 💡 to continue reading click on
+> - [*Next Chapter*](Project-Prep.md) ⏭ 
