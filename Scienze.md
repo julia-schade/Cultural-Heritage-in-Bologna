@@ -2,7 +2,7 @@
 
 
 
-> 💡 Navigation
-- [*Next Chapter*](Specola.md) ⏭
-- [*Previous Chapter*](Poggi.md) ⏮
-- [*Main Page*](index.md) 🏠
+> 🧭
+> - [*Next Chapter*](Specola.md) ⏭
+> - [*Previous Chapter*](Poggi.md) ⏮
+> - [*Main Page*](index.md) 🏠
