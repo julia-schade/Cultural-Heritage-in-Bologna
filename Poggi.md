@@ -3,6 +3,6 @@
 Content here.
 
 > 💡 to continue reading click on
-- [*Next Chapter*](Instituto-delle-Scienze.md) ⏭
+- [*Next Chapter*](Scienze.md) ⏭
 - [*Previous Chapter*](Project-Prep.md) ⏮
 - [*Main Page*](index.md) ⏪
