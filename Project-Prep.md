@@ -515,5 +515,5 @@ We see that the results are related to Palazzo Poggi (monumental Area):
 Summary: We found the relations and properties to Palazzo Poggi, now we will continue investigating these pages more in detail to find items that are related to Collezione Marsili and Collezione Aldrovandi.
 
 > 🧭 
-> - [*Next Chapter*](Poggi.md) ⏭
-> - [*Main Page*](index.md) 🏠
+> - [Next ⏭](Poggi.md) 
+> - [Home 🏠](index.md) 
