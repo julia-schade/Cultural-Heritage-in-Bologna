@@ -10,5 +10,5 @@
 
 
 > 🧭
-> - [*Previous Chapter*](Conclusion.md) ⏮
-> - [*Main Page*](index.md) 🏠
+> - [Previous ⏮](Conclusion.md) 
+> - [Home 🏠](index.md) 
