@@ -1,14 +1,16 @@
 # Cultural Heritage in Bologna
+Small Text about cultural heritage in Bologna
 
 ## ITS Project, University of Bologna 2024
+Info to class, exam date etc. who takes place in this, people?
 
-### Introduction
+### I. Introduction
 Here is a summary to the project, goals, concept etc.
 
-### Methodology
+### II. Methodology
 Describe how we decide to work
 
-### Navigation
+### III. Navigation
 Access the following pages to learn more about our project:
 
 - [Project Preperations](Project-Prep.md)
