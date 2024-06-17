@@ -7,6 +7,6 @@ text
 text
 
 > 🧭
-> - [*Next Chapter*](Sources.md) ⏭
-> - [*Previous Chapter*](Specola.md) ⏮
-> - [*Main Page*](index.md) 🏠
+> - [Next ⏭](Sources.md) 
+> - [Previous ⏮](Specola.md) 
+> - [Home ⏮](index.md) 
