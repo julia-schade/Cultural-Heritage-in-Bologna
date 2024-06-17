@@ -6,7 +6,7 @@ text
 
 text
 
-> 💡 to continue reading click on
-- [*Next Chapter*](Sources.md) ⏭
-- [*Previous Chapter*](Specola.md) ⏮
-- [*Main Page*](index.md) ⏪
+> 💡 Navigation
+> - [*Next Chapter*](Sources.md) ⏭
+> - [*Previous Chapter*](Specola.md) ⏮
+> - [*Main Page*](index.md) 🏠
