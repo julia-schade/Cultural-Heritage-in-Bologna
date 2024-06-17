@@ -3,6 +3,6 @@
 
 
 > 🧭
-> - [*Next Chapter*](Conclusion.md) ⏭
-> - [*Previous Chapter*](Scienze.md) ⏮
-> - [*Main Page*](index.md) 🏠
+> - [Next ⏭](Conclusion.md) 
+> - [Previous ⏮](Scienze.md)
+> - [Home 🏠](index.md) 
