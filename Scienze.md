@@ -3,6 +3,6 @@
 
 
 > 🧭
-> - [*Next Chapter*](Specola.md) ⏭
-> - [*Previous Chapter*](Poggi.md) ⏮
-> - [*Main Page*](index.md) 🏠
+> - [*Next ⏭*](Specola.md) 
+> - [*Previous ⏮*](Poggi.md) 
+> - [*Home 🏠*](index.md) 
