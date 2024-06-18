@@ -14,7 +14,7 @@ Describe how we decide to work
 Access the following pages to learn more about our project:
 
 1. [Project Preperations](Project-Prep.md)
-2. The Collections
+2. [The Collections](Collections.md)
     - Collezione Aldrovandi
     - Collezione Marsili
 3. [Palazzo Poggi](Poggi.md)
