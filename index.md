@@ -14,14 +14,17 @@ Describe how we decide to work
 Access the following pages to learn more about our project:
 
 1. [Project Preperations](Project-Prep.md)
-2. [Palazzo Poggi](Poggi.md)
+2. The Collections
+    - Collezione Aldrovandi
+    - Collezione Marsili
+3. [Palazzo Poggi](Poggi.md)
     -  [Instituto delle Scienze](Scienze.md)
-      - Collezione Marsili
     - [Museo della Specola](Specola.md)
     - [Museo di Palazzo Poggi](LINK)
-      - Collezione Aldrovandi
-3. [Conclusion](Conslusion.md)
-4. [Sources](Sources.md)
+      
+      
+4. [Conclusion](Conslusion.md)
+5. [Sources](Sources.md)
 
 
 > 🧭 ← If you see this sign you will be able to jump between pages.
