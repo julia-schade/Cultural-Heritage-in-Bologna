@@ -1,5 +1,10 @@
 # 1. Project Preperations
 
+ <img src="https://www.guidobarbi.it/wp-content/uploads/2023/04/Bartolomeo-Triachini-Cortile-dErcole-con-statua-dErcole-di-Angelo-Pio-copia-a-Palazzo-Poggi-a-Bologna.jpg"
+         alt="Palazzo Poggi">
+         
+         
+
 #### 1. We start our idea for the project with the question on *how to find items in the collections?*
 ##### To retrieve pairs of the collections and their items, we **LIMIT** with 100. First	we started from the example on Arco website:
 
