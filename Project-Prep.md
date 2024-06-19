@@ -18,7 +18,7 @@ The code looks for cultural entity collections and finds their members. The resu
 
 To show that the code works, here is our result, this was also done with LIMIT.
 
-> 💡 We display only **10 items** as an **example** in the tables. 
+> 💡 We display only **10 items** as an **example** in the tables, instead of all the results. 
 
 <table width="200" height="300">
   <tbody><tr>
@@ -397,4 +397,5 @@ Summary: We found the relations and properties to Palazzo Poggi, now we will con
 
 > 🧭 
 > - [Next ⏭](Poggi.md) 
-> - [Home 🏠](index.md) 
+> - [Home 🏠](index.md)
+
