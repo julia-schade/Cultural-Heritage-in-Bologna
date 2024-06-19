@@ -1,5 +1,6 @@
-# Cultural Heritage in Bologna
-Small Text about cultural heritage in Bologna
+# Palazzo Poggi
+
+Small Text about **cultural heritage of University of Bologna**
 
 ## ITS Project, University of Bologna 2024
 Info to class, exam date etc. who takes place in this, people?
@@ -15,13 +16,11 @@ Access the following pages to learn more about our project:
 
 1. [Project Preperations](Project-Prep.md)
 
-2. [Palazzo Poggi](Poggi.md)
-    -  [Instituto delle Scienze](Scienze.md)
-    - [Museo di Palazzo Poggi](LINK)
-    - [Museo della Specola](Specola.md)
-    - [The Collections](Collections.md) ONLY IF WE FINISH
-        - Collezione Aldrovandi
-        - Collezione Marsili     
+2. [Palazzo Poggi](Poggi.md) **1 move to this page**
+    -  [Instituto delle Scienze](Scienze.md) **Marsili**
+    - [Museo di Palazzo Poggi](LINK) **Aldrovandi**
+    - [Museo della Specola](Specola.md) 
+  
 4. [Conclusion](Conslusion.md)
 5. [Sources](Sources.md)
 
