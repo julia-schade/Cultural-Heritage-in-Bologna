@@ -118,7 +118,7 @@ SELECT DISTINCT * WHERE {
   </tr>
 </tbody></table>
 
-#### 2.1 We isolated only items belonging to the category "NaturalHeritage”
+#### 3. We isolated only items belonging to the category "NaturalHeritage”
 
 ```SPARQL
 PREFIX arco: <https://w3id.org/arco/ontology/arco/>
@@ -170,7 +170,7 @@ SELECT DISTINCT ?object WHERE {
   </tr>
 </tbody> </table>
    
-#### 2.2 We COUNTed the results 
+#### 3.1 We COUNTed the results 
 
 ````SPARQL
 PREFIX arco: <https://w3id.org/arco/ontology/arco/>
@@ -195,7 +195,7 @@ SELECT (COUNT(DISTINCT ?object) AS ?count) WHERE {
   </tr>
 </tbody> </table>
 
-#### 2.3 We used OPTIONAL to check if there are any depictions
+#### 3.2 We used OPTIONAL to check if there are any depictions
 
 ````SPARQL
 PREFIX arco: <https://w3id.org/arco/ontology/arco/>
