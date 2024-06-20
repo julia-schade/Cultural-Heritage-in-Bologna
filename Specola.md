@@ -233,6 +233,19 @@ SELECT DISTINCT ?object ?depiction WHERE {
 </tbody> </table>
 
 
+<figure>
+    <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1069318/ICCD15410726_c494bd8e%2D50eb%2D42dc%2Dbc68%2D0be16bd0de5f.jpg"
+         alt="specola1">
+    <figcaption>Telescopio, rifrattore di Adams, George (terzo quarto XVIII) </figcaption>
+    <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1069318/ICCD15407021_igrometro.jpg"
+         alt="specola2">
+    <figcaption>Igrometro a capelli</figcaption>
+     <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1069318/ICCD15410720_pantografo.jpg"
+         alt="specola3">
+    <figcaption>Pantografo (seconda metà XIX sec)</figcaption>
+</figure>
+
+
 
 
 
