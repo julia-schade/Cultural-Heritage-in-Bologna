@@ -261,6 +261,18 @@ SELECT DISTINCT ?object ?depiction WHERE {
   </tr>
 </tbody> </table>
 
+<figure>
+    <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070354/ICCD15935861_MPPAL108.jpg" width="200" height="100"
+         alt="sassi1">
+    <figcaption>Sfere di calcari e marmi policromi</figcaption>
+   <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070354/ICCD15935947_MPPAL114.jpg"
+         alt="sassi2">
+    <figcaption>Terre sigillate</figcaption>
+  <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070354/ICCD15938032_MPPAL174a.jpg"
+         alt="sassi3">
+    <figcaption>Fossile (riccio di mare)</figcaption>
+</figure>
+
 
 > 🧭
 > - [Next ⏭](Scienze.md) 
