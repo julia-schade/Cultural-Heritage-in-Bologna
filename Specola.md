@@ -58,6 +58,8 @@ SELECT DISTINCT * WHERE { ?object ?t <https://w3id.org/arco/resource/CulturalIns
 
 #### 2. We ASKED if there are any objects related to Aldrovandi Collection in this museum
 
+> 💡 We did the same for both Marsili Collections
+
 ```SPARQL
 PREFIX arco: <https://w3id.org/arco/ontology/arco/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
