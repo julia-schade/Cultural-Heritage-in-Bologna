@@ -5,8 +5,8 @@
          
          
 
-#### 1. We start our idea for the project with the question on *how to find items in the collections?*
-##### To retrieve pairs of the collections and their items, we **LIMIT** with 100. First	we started from the example on Arco website:
+#### 1. We started our idea for the project with the question *What cultural properties are members of the collection X?* that we found on Arco website.
+##### To retrieve pairs of the collections and their items, we used the keyword **LIMIT 100**. 
 
 ```SPARQL
 PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
@@ -19,11 +19,11 @@ WHERE {
 } LIMIT 100
 ```
 
-The code looks for cultural entity collections and finds their members. The result includes the collection and each item that is a member of that collection.
+The code retrieves a list of cultural collections and their respective items from a specified dataset, limiting the results to 100.
 
-To show that the code works, here is our result, this was also done with LIMIT.
+To prove that the codes work, we created a table for each query to show the results.
 
-> 💡 We display only **10 items** as an **example** in the tables, instead of all the results. 
+> 💡 On the website we are going to display only **10 items** as an **example** in the tables, but we actually worked with all the results! 
 
 <table width="200" height="300">
   <tbody><tr>
@@ -72,7 +72,7 @@ To show that the code works, here is our result, this was also done with LIMIT.
   </tr>
 </tbody></table>
 
-##### 1.1 We eliminate the duplicates with **DISTINCT**
+##### 1.1 We eliminated the potential duplicates with **DISTINCT**
 
 `SELECT DISTINCT ?collection ?item:` Adding DISTINCT ensures that each combination of `?collection` and `?item` in the result set is unique, thereby removing duplicates.
 
@@ -134,11 +134,11 @@ WHERE {
   </tr>
 </tbody></table>
 
-##### 2. We want to know which items are part of Collezione Marsili and Aldrovandi
+##### 2. We wanted to know which items are part of Collezione Marsili and Aldrovandi
 
-We look for the items separately in the two queries.
+We looked for the items in two separate queries.
 
-> We use the keywords FILTER and REGEX for the query and `i` to ignore capital letters.
+> We used the keywords FILTER, REGEX, and `i` to ignore capital letters.
 
 ##### 2.1 Collezione Marsili
 
@@ -264,9 +264,9 @@ WHERE {
   </tr>
 </tbody></table>
 
-#### 3. We want to apply **DISTINCT** to eliminate the duplicates
+#### 3. We applied **DISTINCT** to eliminate the potential duplicates
 
-> We use the keyword DISTINCT, FILTER and REGEX on both collections.
+> We used the keyword DISTINCT, FILTER and REGEX on both collections.
 
 ##### 3.1 DISTINCT for Collezione Marsili
 
@@ -394,11 +394,11 @@ FILTER (REGEX(?collectionLabel, "collezione aldrovandi", "i"))
   </tr>
 </tbody></table>
 
-Now we have the raw basis for our project, as we were looking for cultural entity collections, we now have the items of the two collections of *Collezione Marsili* and *Collezione Aldrovandi*.
+Now we have the raw basis for our project, as we were looking for *Collezione Marsili* and *Collezione Aldrovandi* and the items related to them. Exploring the Arco knowledge graph we discovered that all the items are collected in [Palazzo Poggi](https://w3id.org/arco/resource/MonumentalArea/palazzo-poggiAN)
 
 
 
-Summary: We found the relations and properties to Palazzo Poggi, now we will continue investigating these pages more in detail to find items that are related to Collezione Marsili and Collezione Aldrovandi.
+Summary: We found the objects and properties related to Palazzo Poggi, now we will continue investigating these pages more in detail to find items belonging to Collezione Marsili and Collezione Aldrovandi.
 
 > 🧭 
 > - [Next ⏭](Poggi.md) 
