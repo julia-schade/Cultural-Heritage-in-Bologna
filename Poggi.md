@@ -1,6 +1,10 @@
 # 2. Museo di Palazzo Poggi
 
-Description HERE
+The Museo di Palazzo Poggi, nestled in the historic heart of Bologna, is a testament to the city’s rich intellectual and cultural heritage. The museum is housed in the Palazzo Poggi and features a diverse range of collections that reflect the university's rich history and contributions to various fields of knowledge. Exhibits include displays on natural history, anatomy, obstetrics, physics, military architecture, and astronomy, showcasing the scientific and academic advancements made by the university over the centuries 
+Today, the museum's collections provide a window into the pioneering spirit of Bologna's scholars. The Collezione Aldrovandi, assembled by the eminent naturalist Ulisse Aldrovandi, includes an extensive range of botanical, zoological, and geological specimens. Aldrovandi’s meticulous work laid the foundation for modern natural history.
+The Collezione Marsili, curated by Luigi Ferdinando Marsili, features an array of scientific instruments, models, and manuscripts. Marsili, a distinguished scientist and soldier, contributed significantly to the advancement of knowledge in fields such as physics, astronomy, and anatomy.
+The Museo di Palazzo Poggi not only preserves these invaluable collections but also celebrates the ongoing legacy of scientific inquiry and discovery at the University of Bologna. Visitors can explore the museum's rich exhibits, gaining insights into the history of science and the enduring impact of Bologna's academic tradition.
+
 
 #### 1. We defined the objects related to [Museo di Palazzo Poggi](https://w3id.org/arco/resource/CulturalInstituteOrSite/580641438d09beacdf6bea5446600063) and the properties of these relationships
 
