@@ -17,7 +17,7 @@ Access the following pages to learn more about our project:
 1. [Project Preperations](Project-Prep.md)
 
 2. [Palazzo Poggi](Poggi.md) **1 move to this page**
-    -  [Instituto delle Scienze](Scienze.md) **Marsili**
+    -  [Istituto delle Scienze](Scienze.md) **Marsili**
     - [Museo di Palazzo Poggi](LINK) **Aldrovandi**
     - [Museo della Specola](Specola.md) 
   
