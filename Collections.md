@@ -1,6 +1,6 @@
-# The Collections
+# Palazzo Poggi
 
-## Our Starting Point
+Palazzo Poggi was built in the 16th century based on a design by Pellegrino Tibaldi, who also created some of the interior frescoes, and it is located in the heart of the university area and has been the main headquarters of the University of Bologna since 1803.
 
 #### 4. We want to know which pages are related to the Monumental Area labeled as *Palazzo Poggi*?
 
