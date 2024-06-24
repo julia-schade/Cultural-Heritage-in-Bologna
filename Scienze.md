@@ -1,6 +1,26 @@
 # Istituto delle Scienze
 
-Description HERE
+The Istituto delle Scienze, housed in Palazzo Poggi, is part of the Alma Mater Studiorum of Bologna. The foundation of the institute traces back to the 18th century, a period marked by significant advancements in scientific thought and education. 
+
+Foundation and Early History 
+
+The Istituto delle Scienze was founded in 1711 by Luigi Ferdinando Marsili, a scholar and naturalist, with the intention of fostering scientific research and education. Marsili, leveraging his own collection and connections, aimed to create a comprehensive center for scientific inquiry and learning. 
+
+The institute initially focused on various fields including astronomy, physics, natural history, and anatomy. It played a pivotal role in advancing the scientific understanding of the time and was one of the earliest examples of a modern research institution. 
+
+Development and influence 
+
+Over the years, the Istituto delle Scienze expanded its collections and resources, incorporating extensive scientific apparatus, natural history specimens, and anatomical models. These collections were instrumental in both teaching and research. 
+
+The institute became an integral part of the University of Bologna, contributing significantly to its reputation as a leading center for higher education and research in Europe. 
+
+During the Enlightenment, the institute was at the forefront of scientific thought and innovation, attracting scholars and students from across Europe. It became a hub for the exchange of ideas and scientific collaboration. 
+
+Modern Era 
+
+Today, Palazzo Poggi remains a significant cultural and educational landmark. It houses various museums and collections that continue to reflect the institute’s historical contributions to science and knowledge. 
+
+ The Istituto delle Scienze, as part of the Alma Mater Studiorum, continues to play a vital role in advancing scientific research and education, maintaining its legacy of excellence and innovation.  
 
 #### 1. We defined the objects related to [Istituto delle Scienze](https://w3id.org/arco/resource/Site/a5e73b25845521559dceef201110b92e) and the properties of these relationships
 
