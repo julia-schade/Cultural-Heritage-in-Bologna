@@ -2,9 +2,6 @@
 
 Small Text about **cultural heritage of University of Bologna**
 
-## ITS Project, University of Bologna 2024
-Info to class, exam date etc. who takes place in this, people?
-
 ### I. Introduction
 Here is a summary to the project, goals, concept etc.
 
