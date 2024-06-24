@@ -14,7 +14,7 @@ Describe how we decide to work
 ### III. Navigation
 Access the following pages to learn more about our project:
 
-1. [Project Preperations](Project-Prep.md)
+1. [Project Preparations](Project-Prep.md)
 
 2. [Palazzo Poggi](Poggi.md) **1 move to this page**
     -  [Istituto delle Scienze](Scienze.md) **Marsili**
