@@ -1,22 +1,25 @@
-# Palazzo Poggi
+# Index
+--> right after the info in the homepage 
 
-Small Text about **cultural heritage of University of Bologna**
-
-### I. Introduction
-Here is a summary to the project, goals, concept etc.
-
-### II. Methodology
-Describe how we decide to work
+### I. Methodology
+1. We created a repository on Github (Julia).
+2. We started from one of the examples that we found on Arco website.
+3. We explored the knowledge graph to define our topic using SPARQL (Chiara and Gianluca). In this way, we connected different elements to our general topic in order to complete the project.
+4. We used LLMs to find potential elements that could be added to the Arco knowledge graph (Aleksandra and Angelita).
+5. We individuated a few details that could be added and improved on the knowledge graph.
+6. We created the final website.
 
 ### III. Navigation
 Access the following pages to learn more about our project:
 
 1. [Project Preparations](Project-Prep.md)
 
-2. [Palazzo Poggi](Poggi.md) **1 move to this page**
-    - [Museo di Palazzo Poggi](LINK) **Aldrovandi**
-    -  [Istituto delle Scienze](Scienze.md) **Marsili**
-    - [Museo della Specola](Specola.md) 
+2. [Palazzo Poggi](Poggi.md) **1 move to this page** --> current "Collection" page
+    - [Museo di Palazzo Poggi](LINK) 
+    -  [Istituto delle Scienze](Scienze.md) 
+    - [Museo della Specola](Specola.md)
+  
+3. LLMs PART
   
 4. [Conclusion](Conslusion.md)
 5. [Sources](Sources.md)
