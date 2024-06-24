@@ -1,4 +1,4 @@
-# 1. Project Preperations
+# 1. Project Preparations
 
  <img src="https://www.guidobarbi.it/wp-content/uploads/2023/04/Bartolomeo-Triachini-Cortile-dErcole-con-statua-dErcole-di-Angelo-Pio-copia-a-Palazzo-Poggi-a-Bologna.jpg"
          alt="Palazzo Poggi">
