@@ -475,6 +475,18 @@ WHERE {
 </tbody>
 </table>
 
+## Our proposal of expansion:
+
+1. [ITEM N. 0800691128](https://w3id.org/arco/resource/ScientificOrTechnologicalHeritage/0800691128)
+   [a-cd:isSpecimenMemberOf](https://w3id.org/arco/ontology/context-description/isSpecimenMemberOf)
+   [Collezione Marsili](https://w3id.org/arco/resource/CollectionCulEnt/-bologna-collezione-marsili)
+   : the same process could be applied to all 69 items cof this collection
+   
+2. [ITEM N. 0800691143](https://w3id.org/arco/resource/ScientificOrTechnologicalHeritage/0800691143)
+   [a-cd:isSpecimenMemberOf](https://w3id.org/arco/ontology/context-description/isSpecimenMemberOf)
+   [Collezioni Marsili](https://w3id.org/arco/resource/CollectionCulEnt/-bologna-collezioni-marsili)
+   : the same process could be applied to all 36 items cof this collection
+
 
 > 🧭
 > - [Next ⏭](Specola.md) 
