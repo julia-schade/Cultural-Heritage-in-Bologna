@@ -27,7 +27,7 @@ The palace is open to the public, with guided tours available for those who wish
 
 Palazzo Poggi is a must-visit destination in Bologna. With its stunning architecture, rich history, and ongoing commitment to scientific research and education, the palace is a true gem of the city and a testament to the enduring legacy of the University of Bologna. 
 
-#### 4. We want to know which pages are related to the Monumental Area labeled as *Palazzo Poggi*?
+#### 4. We want to know which Sites are related to the Monumental Area labeled as *Palazzo Poggi*?
 
 ```SPARQL
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
