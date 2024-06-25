@@ -1,5 +1,6 @@
 # Palazzo Poggi
 
+Inserire foto
 #### Palazzo Poggi: A Historical and Architectural Gem in Bologna  
 
 Palazzo Poggi, located in the heart of Bologna, Italy, is a renowned historical palace that now serves as the headquarters of the University of Bologna. This magnificent building is not only a center of academic life but also a treasure trove of history, art, and architecture. 
