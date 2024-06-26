@@ -1,6 +1,8 @@
 # 4. Sources
 
 - [Sistema Museale di Ateneo](https://catalogo.sma.unibo.it/it/29/ricerca/iccd/?search=museo+di+palazzo+poggi&paginate_pageNum=1)
+- [About Aldrovandi](https://www.museibologna.it/archeologico/schede/ulisse-aldrovandi-1522-1605-560/)
+- [About Marsili](http://badigit.comune.bologna.it/mostre/archeologia/marsili.htm)
 - [Picture 1](https://www.medconf2024.org/en/poggi-palace/)
 
 ## Git Sources
