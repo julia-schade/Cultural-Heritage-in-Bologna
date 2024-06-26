@@ -5,6 +5,8 @@
 - [About Marsili](http://badigit.comune.bologna.it/mostre/archeologia/marsili.htm)
 - [Picture 1](https://www.medconf2024.org/en/poggi-palace/)
 - [Picture 2](https://www.flickr.com/photos/42807077@N07/7251395776/in/photostream/)
+- [Picture 3](https://sma.unibo.it/it/il-sistema-museale/museo-di-palazzo-poggi/collezioni/gallery)
+- [Picture 4](https://www.ilrestodelcarlino.it/bologna/cronaca/specola-bologna-lavori-restauro-mys3gi3m)
 
 ## Git Sources
 - [Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
