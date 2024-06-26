@@ -11,11 +11,17 @@ Chat GPT ange
 For the purposes of this project, Mistral.ai was employed as well. Mistral.ai is a large language model developed by a team of researchers and engineers at the French company Hugging Face. The model is designed to generate human-like text based on input prompts, and it is capable of understanding and responding to a wide variety of natural language queries and commands. Its key features include: advanced architecture, high performance, scalability and versatility. Its size and complexity make it one of the most advanced language models available today.
 
 Scalability: 
+
 Mistral's models are scalable, allowing for deployment in various applications from chatbots to complex data analysis tools.
+
 Large: top reasoning capacities
+
 Next: prototype model with extra concision
+
 Small: fast and cost-effective
+
 Codestral: fast and specialized in code
+
 All models were explored, the same question was asked with a different model to observe potential changes in the results. The most accurate and complete model resulted to be “Large” and was the one used the most. 
 
 Use:
