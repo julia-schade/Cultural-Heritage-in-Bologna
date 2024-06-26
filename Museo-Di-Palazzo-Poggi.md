@@ -277,31 +277,36 @@ SELECT DISTINCT ?object ?depiction WHERE {
 
 #### Examples for Objects
 
-<br />
 <table>
-<tbody><tr>
-    <th>Picture</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>
-<figure>
-    <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070354/ICCD15935861_MPPAL108.jpg" width="600" height="300"
-         alt="sassi1">
-  </td><td>
-    <figcaption>Sfere di calcari e marmi policromi</figcaption></td>
-  <tr><td>
-   <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070354/ICCD15935947_MPPAL114.jpg"
-         alt="sassi2"></td>
-    <td>
-    <figcaption>Terre sigillate</figcaption></td>
-   <td>
-  <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070354/ICCD15938032_MPPAL174a.jpg"
-         alt="sassi3"></td>
-    <td>
-    <figcaption>Fossile (riccio di mare)</figcaption> </td>
- </tr></figure>
-</tbody> </table>
+  <tbody>
+    <tr>
+      <th>Picture</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070354/ICCD15935861_MPPAL108.jpg" alt="sassi1" width="375">
+      </td>
+      <td>Sfere di calcari e marmi policromi</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070354/ICCD15935947_MPPAL114.jpg" alt="sassi2" width="375">
+      </td>
+      <td>Terre sigillate</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070354/ICCD15938032_MPPAL174a.jpg" alt="sassi3" width="375">
+      </td>
+      <td>Fossile (riccio di mare)</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 
 > 🧭
 > - [Next ⏭](Scienze.md) 
