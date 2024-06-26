@@ -1,7 +1,7 @@
 # Palazzo Poggi
 
  <img src="https://www.medconf2024.org/wp-content/uploads/2023/04/Palazzo-Poggi-Bologna.jpg"
-         alt="Palazzo Poggi">
+         alt="Library of Palazzo Poggi">
          
 #### Palazzo Poggi (Monumental Area): A Historical and Architectural Gem in Bologna  
 
