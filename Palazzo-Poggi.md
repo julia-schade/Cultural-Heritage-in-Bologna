@@ -1,7 +1,9 @@
 # Palazzo Poggi
 
-Inserire foto
-#### Palazzo Poggi: A Historical and Architectural Gem in Bologna  
+ <img src="https://www.medconf2024.org/wp-content/uploads/2023/04/Palazzo-Poggi-Bologna.jpg"
+         alt="Palazzo Poggi">
+         
+#### Palazzo Poggi (Monumental Area): A Historical and Architectural Gem in Bologna  
 
 Palazzo Poggi, located in the heart of Bologna, Italy, is a renowned historical palace that now serves as the headquarters of the University of Bologna. This magnificent building is not only a center of academic life but also a treasure trove of history, art, and architecture. 
 
@@ -141,8 +143,7 @@ ORDER BY ?property
   </tr>
 </tbody></table>
 
-We see that the results are related to Palazzo Poggi (monumental Area): 
-- [Istituto delle Scienze](Instituto-Delle-Scienze)
-- [Museo della SPECOLA](Museo-Della-Specola)
-- [Museo di PALAZZO POGGI](Museo-Di-Palazzo-
-Poggi)
+We see that the results are related to Palazzo Poggi (Monumental Area): 
+- [Istituto delle Scienze](Instituto-Delle-Scienze.md)
+- [Museo della SPECOLA](Museo-Della-Specola.md)
+- [Museo di PALAZZO POGGI](Museo-Di-Palazzo-Poggi.md)
