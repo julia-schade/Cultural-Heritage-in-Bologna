@@ -1,9 +1,4 @@
-# 1. Project Preparations
-
- <img src="https://www.guidobarbi.it/wp-content/uploads/2023/04/Bartolomeo-Triachini-Cortile-dErcole-con-statua-dErcole-di-Angelo-Pio-copia-a-Palazzo-Poggi-a-Bologna.jpg"
-         alt="Palazzo Poggi">
-         
-         
+# 1. Project Preparations         
 
 #### 1. We started our idea for the project with the question *What cultural properties are members of the collection X?* that we found on Arco website.
 ##### To retrieve pairs of the collections and their items, we used the keyword **LIMIT 100**. 
@@ -394,7 +389,7 @@ FILTER (REGEX(?collectionLabel, "collezione aldrovandi", "i"))
   </tr>
 </tbody></table>
 
-Now we have the raw basis for our project, as we were looking for *Collezione Marsili* and *Collezione Aldrovandi* and the items related to them. Exploring the Arco knowledge graph we discovered that all the items are collected in [Palazzo Poggi](https://w3id.org/arco/resource/MonumentalArea/palazzo-poggiAN)
+Now we have the raw basis for our project, as we were looking for *Collezione [Marsili](http://badigit.comune.bologna.it/mostre/archeologia/marsili.htm)* and *Collezione [Aldrovandi](https://www.museibologna.it/archeologico/schede/ulisse-aldrovandi-1522-1605-560/)* and the items related to them. Exploring the Arco knowledge graph we discovered that all the items are collected in [Palazzo Poggi](https://w3id.org/arco/resource/MonumentalArea/palazzo-poggi)
 
 
 
