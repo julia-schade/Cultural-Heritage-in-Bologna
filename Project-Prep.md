@@ -396,6 +396,6 @@ Now we have the raw basis for our project, as we were looking for *Collezione [M
 Summary: We found the objects and properties related to Palazzo Poggi, now we will continue investigating these pages more in detail to find items belonging to Collezione Marsili and Collezione Aldrovandi.
 
 > 🧭 
-> - [Next ⏭](Poggi.md) 
+> - [Next ⏭](Palazzo-Poggi.md) 
 > - [Home 🏠](index.md)
 
