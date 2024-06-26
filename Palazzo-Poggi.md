@@ -144,11 +144,11 @@ ORDER BY ?property
 </tbody></table>
 
 We see that the results are related to Palazzo Poggi (Monumental Area): 
-- [Istituto delle Scienze](Instituto-Delle-Scienze.md)
+- [Istituto delle Scienze](Istituto-Delle-Scienze.md)
 - [Museo della SPECOLA](Museo-Della-Specola.md)
 - [Museo di PALAZZO POGGI](Museo-Di-Palazzo-Poggi.md)
 
 > 🧭
-> - [Next ⏭](Instito-Delle-Scienze.md) 
+> - [Next ⏭](Istituto-Delle-Scienze.md) 
 > - [Previous ⏮](Project-Prep.md) 
 > - [Home 🏠](index.md) 
