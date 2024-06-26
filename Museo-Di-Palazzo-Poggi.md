@@ -280,8 +280,8 @@ SELECT DISTINCT ?object ?depiction WHERE {
 <table width="130%">
   <tbody>
     <tr>
-      <th>Picture</th>
-      <th>Description</th>
+      <th>picture</th>
+      <th>description</th>
     </tr>
     <tr>
       <td>
