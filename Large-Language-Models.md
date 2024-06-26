@@ -64,7 +64,7 @@ What information could I add on the Arco Knowledge Graph related to Palazzo Pogg
 
 Tabella su documento 12
 
-We decided to break down the prompt into smaller sub-prompts and generate answers for each of them in order to build up a tree of thought that covers different topics and ideas we were interested in exploring (Tree-Of-Thought). In particular, we asked about the commissioner and architect of Palazzo Poggi (respectively Giovanni Poggi/the Poggi Family and Pellegrino Tibaldi and/or Bartolomeo Triachini). We proceeded to check if they were linked to Palazzo Poggi on the Arco Ontology and realized they were not.
+We decided to break down the prompt into smaller sub-prompts and generate answers for each of them in order to build up a tree of thought that covers different topics and ideas we were interested in exploring (Tree-Of-Thought Prompting). In particular, we asked about the commissioner and architect of Palazzo Poggi (respectively Giovanni Poggi/the Poggi Family and Pellegrino Tibaldi and/or Bartolomeo Triachini). We proceeded to check if they were linked to Palazzo Poggi on the Arco Ontology and realized they were not.
 
 Comparison of LLMs:
 
