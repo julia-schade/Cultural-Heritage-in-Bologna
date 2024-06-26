@@ -149,6 +149,6 @@ We see that the results are related to Palazzo Poggi (Monumental Area):
 - [Museo di PALAZZO POGGI](Museo-Di-Palazzo-Poggi.md)
 
 > 🧭
-> - [Next ⏭](Instituo-Delle-Scienze.md) 
+> - [Next ⏭](Instito-Delle-Scienze.md) 
 > - [Previous ⏮](Project-Prep.md) 
 > - [Home 🏠](index.md) 
