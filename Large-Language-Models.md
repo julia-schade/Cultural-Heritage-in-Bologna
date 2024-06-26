@@ -3,6 +3,14 @@
 A Large Language Model (LLM) is an advanced form of artificial intelligence designed to understand and generate human language like humans. These models use complex algorithms and are trained on huge sets of data — hence the name "large." LLMs are built on machine learning, they are able to recognize and interpret human language because they have previously been trained using thousands or millions of examples (often gathered from the Internet). In order to understand how characters, words and sentences work together, LLMs use “deep learning” which allows them to recognize differences and similarities without the need of human intervention.
 Large Language Models (LLMs) do not have genuine comprehension abilities. Instead, they operate by analyzing statistical patterns. LLMs rely on statistical analysis rather than true understanding to process and generate language.
 
+They can generate original and creative texts, read, understand and translate a vast amount of text in different languages, answer your questions in a clear and informative way, even if they are open-ended, complex, or strange.
+
+There are different types of LLMs, with different characteristics: ChatGPT (by OpenAI), Llama2 (by Meta), Mistral (by Mistral AI), Gemini (by Google DeepMind).
+
+
+Large Language Models were essential for the development of our project. We tried to use multiple models and the most effective ones were ChatGPT, Mistral and Gemini. All of them were useful in order to achieve different specific results and compare their functions.
+
+
 #### 2. ChatGPT
 
 ChatGPT, acronym of Generative Pretrained Transformer, is a sophisticated language model created by OpenAI. Its primary function is to assist users by generating human-like text based on the prompts and questions it receive.
