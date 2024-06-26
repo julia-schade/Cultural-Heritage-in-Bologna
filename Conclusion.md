@@ -1,6 +1,6 @@
 # 3. Conclusion
 
-text
+Our conclusion about the project is...
 
 ## Limitations
 
@@ -10,5 +10,5 @@ text
 
 > 🧭
 > - [Next ⏭](Sources.md) 
-> - [Previous ⏮](Specola.md) 
+> - [Previous ⏮](Large-Language-Models.md) 
 > - [Home ⏮](index.md) 
