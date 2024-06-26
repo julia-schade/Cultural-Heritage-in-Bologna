@@ -1,5 +1,8 @@
 # Museo della Specola
 
+<img src="https://scontent-fra5-1.xx.fbcdn.net/v/t1.6435-9/141784017_2898367727062507_980234656305926573_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_ohc=4HfSmsJAvzsQ7kNvgHkqg38&_nc_ht=scontent-fra5-1.xx&oh=00_AYDo4Vrjq0Gc3ql1O2AHJYiunfvQELccYUJhv7LETmM3aQ&oe=66A3AD48" alt="Museo della Specola">
+
+
 The Museo della Specola in Bologna is an astronomy museum located within the historic Palazzo Poggi. It is part of the University of Bologna and is dedicated to the history of astronomy and astronomical instruments. The museum is situated in the former astronomical observatory of the university, which dates back to the 18th century. Visitors can explore a collection of telescopes, astrolabes, and other scientific instruments that were used for celestial observation and research. The museum also features historical documents and models that illustrate the development of astronomical theories and practices over time. The Museo della Specola provides a fascinating glimpse into the evolution of astronomy and the significant contributions made by the University of Bologna to this scientific field.
 
 
