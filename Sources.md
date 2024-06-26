@@ -1,6 +1,7 @@
 # 4. Sources
 
 - [Sistema Museale di Ateneo](https://catalogo.sma.unibo.it/it/29/ricerca/iccd/?search=museo+di+palazzo+poggi&paginate_pageNum=1)
+- [Picture 1](https://www.medconf2024.org/en/poggi-palace/)
 
 ## Git Sources
 - [Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
