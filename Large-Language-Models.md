@@ -9,5 +9,5 @@ Large Language Models (LLMs) do not have genuine comprehension abilities. Instea
 
 > 🧭
 > - [Next ⏭](Conclusion.md)
-> - [Previous ⏮](Large-Language-Models.md)
+> - [Previous ⏮](Museo-Della-Specola.md)
 > - [Home 🏠](index.md) 
