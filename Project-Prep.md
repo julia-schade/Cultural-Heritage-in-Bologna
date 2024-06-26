@@ -67,7 +67,7 @@ To prove that the codes work, we created a table for each query to show the resu
   </tr>
 </tbody></table>
 
-##### 1.1 We eliminated the potential duplicates with **DISTINCT**
+#### 1.1 We eliminated the potential duplicates with **DISTINCT**
 
 `SELECT DISTINCT ?collection ?item:` Adding DISTINCT ensures that each combination of `?collection` and `?item` in the result set is unique, thereby removing duplicates.
 
@@ -135,7 +135,7 @@ We looked for the items in two separate queries.
 
 > We used the keywords FILTER, REGEX, and `i` to ignore capital letters.
 
-##### 2.1 Collezione Marsili
+#### 2.1 Collezione Marsili
 
 ```SPARQL
 PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
@@ -197,7 +197,7 @@ WHERE {
   </tr>
 </tbody></table>
 
-##### 2.2 Collezione Aldrovandi
+#### 2.2 Collezione Aldrovandi
 
 ```SPARQL
 PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/>
@@ -263,7 +263,7 @@ WHERE {
 
 > We used the keyword DISTINCT, FILTER and REGEX on both collections.
 
-##### 3.1 DISTINCT for Collezione Marsili
+#### 3.1 DISTINCT for Collezione Marsili
 
 ```SPARQL
 PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/> 
@@ -326,7 +326,7 @@ FILTER (REGEX(?collectionLabel, "collezione marsili", "i"))
   </tr>
 </tbody></table>
 
-##### 3.2 DISTINCT for Collezione Aldrovandi
+#### 3.2 DISTINCT for Collezione Aldrovandi
 
 ```SPARQL
 PREFIX arco-cd: <https://w3id.org/arco/ontology/context-description/> 
