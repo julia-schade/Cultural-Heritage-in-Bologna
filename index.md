@@ -41,6 +41,8 @@ Access the following pages to learn more about our project:
 4. [Conclusion](Conslusion.md)
 5. [Sources](Sources.md)
 
+<br />
+<br /> 
 
 > 🧭 ← If you see this sign you will be able to jump between pages.
 >
