@@ -33,10 +33,10 @@ Access the following pages to learn more about our project:
 
 2. [Palazzo Poggi](Palazzo-Poggi.md) 
     - [Museo di Palazzo Poggi](Museo-Di-Palazzo-Poggi.md) 
-    -  [Istituto delle Scienze](Instituo-Delle-Scienze.md) 
-    - [Museo della Specola](Museo-Delle-Specola.md)
+    -  [Istituto delle Scienze](Istituto-Delle-Scienze.md) 
+    - [Museo della Specola](Museo-Della-Specola.md)
   
-3. [Large Language Models](Large-Language-Models)
+3. [Large Language Models](Large-Language-Models.md)
   
 4. [Conclusion](Conslusion.md)
 5. [Sources](Sources.md)
