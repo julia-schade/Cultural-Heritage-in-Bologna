@@ -38,7 +38,7 @@ Access the following pages to learn more about our project:
   
 3. [Large Language Models](Large-Language-Models.md)
   
-4. [Conclusion](Conslusion.md)
+4. [Conclusion](Conclusion.md)
 5. [Sources](Sources.md)
 
 <br />
