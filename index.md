@@ -1,4 +1,4 @@
-# Cultural-Heritage-in-Bologna
+# Cultural Heritage in Bologna
 To enhance accessibility and promote the preservation of cultural properties, the project aims to explore the Arco knowledge graph in order to illustrate the great variety of cultural properties that are present in the collections of Palazzo Poggi, select a few examples of artifacts, and and represent them using the Resource Description Framework (RDF) based on the ARCO (Architecture of Cultural Heritage Ontology). Moreover, new relevant knowledge will be produced in the form of RDF triples that could be added to the knowledge graph.
 
 # Digital Heritage: RDF Representation of Marsili and Aldrovandi Artifacts at Palazzo Poggi
