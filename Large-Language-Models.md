@@ -3,7 +3,7 @@
 A Large Language Model (LLM) is an advanced form of artificial intelligence designed to understand and generate human language like humans. These models use complex algorithms and are trained on huge sets of data — hence the name "large." LLMs are built on machine learning, they are able to recognize and interpret human language because they have previously been trained using thousands or millions of examples (often gathered from the Internet). In order to understand how characters, words and sentences work together, LLMs use “deep learning” which allows them to recognize differences and similarities without the need of human intervention.
 Large Language Models (LLMs) do not have genuine comprehension abilities. Instead, they operate by analyzing statistical patterns. LLMs rely on statistical analysis rather than true understanding to process and generate language.
 
-#### 2. ChatGPT
+# 2. ChatGPT
 
 ChatGPT, acronym of Generative Pretrained Transformer, is a sophisticated language model created by OpenAI. Its primary function is to assist users by generating human-like text based on the prompts and questions it receive.
 It can understand and generate text in multiple languages, provide detailed responses on a wide range of topics, and help with tasks like writing, brainstorming, translating, and answering factual questions. 
@@ -11,7 +11,7 @@ During our research we discovered that, among the other Large Language Models, C
  
 We used LLMs to create the definitions of the cultural heritage we examined in this project, to create some of the queries that we used in the first part of the project, and especially to check if the ones that we created were the right ones. We also used them to explain us something that we didn’t understand. 
 
-# Prompt Engineering
+#### Prompt Engineering
 
 We used several engineering prompts to achieve our purposes. Prompt engineering is the process of structuring an instruction that can be interpreted and understood by a generative AI model. So, a prompt is natural language text describing the task that an AI should perform.
 Prompt engineering may involve phrasing a query, specifying a style, providing relevant context or assigning a role to the AI.
