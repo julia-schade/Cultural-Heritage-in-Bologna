@@ -31,10 +31,10 @@ Access the following pages to learn more about our project:
 
 1. [Project Preparations](Project-Prep.md)
 
-2. [Palazzo Poggi](Poggi.md) **1 move to this page** --> current "Collection" page
-    - [Museo di Palazzo Poggi](LINK) 
-    -  [Istituto delle Scienze](Scienze.md) 
-    - [Museo della Specola](Specola.md)
+2. [Palazzo Poggi](Palazzo-Poggi.md) 
+    - [Museo di Palazzo Poggi](Museo-Di-Palazzo-Poggi.md) 
+    -  [Istituto delle Scienze](Instituo-Delle-Scienze.md) 
+    - [Museo della Specola](Museo-Delle-Specola.md)
   
 3. [Large Language Models](Large-Language-Models)
   
