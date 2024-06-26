@@ -271,8 +271,6 @@ SELECT DISTINCT ?object ?depiction WHERE {
 
 
 
-
-
 > 🧭
 > - [Next ⏭](Large-Language-Models.md) 
 > - [Previous ⏮](Museo-Di-Palazzo-Poggi.md)
