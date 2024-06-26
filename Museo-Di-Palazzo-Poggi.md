@@ -309,6 +309,6 @@ SELECT DISTINCT ?object ?depiction WHERE {
 
 
 > 🧭
-> - [Next ⏭](Istituto-Delle-Scienze.md) 
+> - [Next ⏭](Museo-Della-Specola.md) 
 > - [Previous ⏮](Project-Prep.md) 
 > - [Home 🏠](index.md) 
