@@ -277,7 +277,7 @@ SELECT DISTINCT ?object ?depiction WHERE {
 
 #### Examples for Objects
 
-<table>
+<table width="200">
   <tbody>
     <tr>
       <th>Picture</th>
@@ -309,6 +309,6 @@ SELECT DISTINCT ?object ?depiction WHERE {
 
 
 > 🧭
-> - [Next ⏭](Scienze.md) 
+> - [Next ⏭](Istituto-Delle-Scienze.md) 
 > - [Previous ⏮](Project-Prep.md) 
 > - [Home 🏠](index.md) 
