@@ -14,7 +14,7 @@ However, despite the large number of items belonging to these two great collecto
 
 # Context
 The Project is integrated part of the exam in _IT Skills, Computer Studies and Human Sciences_,
-Summer-Term 2024 at University of Bologna
+Summer-Term 2024 at University of Bologna.
 
 # Index
 
