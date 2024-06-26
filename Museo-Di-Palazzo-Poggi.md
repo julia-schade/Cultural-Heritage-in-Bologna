@@ -277,7 +277,7 @@ SELECT DISTINCT ?object ?depiction WHERE {
 
 #### Examples for Objects
 
-<table width="200">
+<table width="130%">
   <tbody>
     <tr>
       <th>Picture</th>
@@ -285,19 +285,19 @@ SELECT DISTINCT ?object ?depiction WHERE {
     </tr>
     <tr>
       <td>
-        <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070354/ICCD15935861_MPPAL108.jpg" alt="sassi1" width="375">
+        <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070354/ICCD15935861_MPPAL108.jpg" alt="sassi1" width="475">
       </td>
       <td>Sfere di calcari e marmi policromi</td>
     </tr>
     <tr>
       <td>
-        <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070354/ICCD15935947_MPPAL114.jpg" alt="sassi2" width="375">
+        <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070354/ICCD15935947_MPPAL114.jpg" alt="sassi2" width="475">
       </td>
       <td>Terre sigillate</td>
     </tr>
     <tr>
       <td>
-        <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070354/ICCD15938032_MPPAL174a.jpg" alt="sassi3" width="375">
+        <img src="https://www.sigecweb.beniculturali.it/images/fullsize/ICCD1070354/ICCD15938032_MPPAL174a.jpg" alt="sassi3" width="475">
       </td>
       <td>Fossile (riccio di mare)</td>
     </tr>
