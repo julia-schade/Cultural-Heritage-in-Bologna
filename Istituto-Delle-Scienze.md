@@ -489,6 +489,6 @@ WHERE {
 
 
 > 🧭
-> - [Next ⏭](Specola.md) 
-> - [Previous ⏮](Poggi.md) 
+> - [Next ⏭](Museo-Di-Palazzo-Poggi.md) 
+> - [Previous ⏮](Palazzo-Poggi.md) 
 > - [Home 🏠](index.md) 
