@@ -4,7 +4,7 @@
 - [About Aldrovandi](https://www.museibologna.it/archeologico/schede/ulisse-aldrovandi-1522-1605-560/)
 - [About Marsili](http://badigit.comune.bologna.it/mostre/archeologia/marsili.htm)
 - [Picture 1](https://www.medconf2024.org/en/poggi-palace/)
-- Pictures from Collections: Arco
+- [Picture 2](https://www.flickr.com/photos/42807077@N07/7251395776/in/photostream/)
 
 ## Git Sources
 - [Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
