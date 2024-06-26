@@ -1,4 +1,4 @@
-# 1. Project Preparations         
+# Project Preparations         
 
 #### 1. We started our idea for the project with the question *What cultural properties are members of the collection X?* that we found on Arco website.
 ##### To retrieve pairs of the collections and their items, we used the keyword **LIMIT 100**. 
