@@ -196,12 +196,20 @@ Give me a brief history of the Istituto delle Scienze (Alma Mater Studiorum of B
 
 
 Mistral: 
-Construction of Palazzo Poggi (16th century): Palazzo Poggi was built in the 16th century by the Bolognese architect Alfonso Torreggiani for the Poggi family, who were prominent Bolognese nobles.
-Foundation of the Istituto delle Scienze (1711): The Istituto delle Scienze was founded in 1711 by Pope Clement XI, who issued a papal bull establishing the Institute of Sciences and Arts in Bologna. The new institution was created to promote scientific research and education in the city.
-Acquisition of Palazzo Poggi (1714): In 1714, the Istituto delle Scienze acquired Palazzo Poggi from the Poggi family. The palace was chosen as the new home of the Institute due to its size and central location in the city.
+
+#### Construction of Palazzo Poggi (16th century): 
+Palazzo Poggi was built in the 16th century by the Bolognese architect Alfonso Torreggiani for the Poggi family, who were prominent Bolognese nobles.
+
+#### Foundation of the Istituto delle Scienze (1711): 
+The Istituto delle Scienze was founded in 1711 by Pope Clement XI, who issued a papal bull establishing the Institute of Sciences and Arts in Bologna. The new institution was created to promote scientific research and education in the city.
+#### Acquisition of Palazzo Poggi (1714): 
+In 1714, the Istituto delle Scienze acquired Palazzo Poggi from the Poggi family. The palace was chosen as the new home of the Institute due to its size and central location in the city.
 Expansion and Renovation (18th-19th centuries): Over the centuries, the Istituto delle Scienze expanded and added new buildings to Palazzo Poggi to accommodate the growing number of students and faculty. The palace underwent several renovations and expansions during this period, including the addition of new classrooms, libraries, and laboratories.
-Modern Era (20th century-present): In the 20th century, the Istituto delle Scienze became part of the Alma Mater Studiorum - University of Bologna, which is one of the oldest and most prestigious universities in the world. The institution continues to use Palazzo Poggi as its main administrative and teaching facility, and the palace remains a symbol of the university's rich history and cultural heritage.
-Present Day (21st century): Today, the Istituto delle Scienze is a leading center for scientific research and education in Italy and Europe. Its facilities in Palazzo Poggi include state-of-the-art laboratories, libraries, and museums, and it offers a wide range of programs in fields such as physics, chemistry, biology, and geology.
+#### Modern Era (20th century-present): 
+In the 20th century, the Istituto delle Scienze became part of the Alma Mater Studiorum - University of Bologna, which is one of the oldest and most prestigious universities in the world. The institution continues to use Palazzo Poggi as its main administrative and teaching facility, and the palace remains a symbol of the university's rich history and cultural heritage.
+#### Present Day (21st century): 
+Today, the Istituto delle Scienze is a leading center for scientific research and education in Italy and Europe. Its facilities in Palazzo Poggi include state-of-the-art laboratories, libraries, and museums, and it offers a wide range of programs in fields such as physics, chemistry, biology, and geology.
+
 Some of the information provided by Mistral was not exact (the architect is wrong for example), for this reason we checked everything and the final description is a mixture of information from Mistral, ChatGPT, the web and our own corrections. 
 We decided not to use Gemini for this phase because when asking for descriptions of places we were interested in, it assumed we were tourists and tended to give practical tips and information such as the opening hours of the museum and the admission prices and this was not our goal.
 
