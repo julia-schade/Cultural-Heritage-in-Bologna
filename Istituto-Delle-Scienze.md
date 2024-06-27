@@ -489,6 +489,20 @@ WHERE {
    [Collezioni Marsili](https://w3id.org/arco/resource/CollectionCulEnt/-bologna-collezioni-marsili)
    : the same process could be applied to all 36 items cof this collection
 
+<figure>
+    <img src="https://sigecweb.beniculturali.it/images/fullsize/ICCD1071161/ICCD15660823_MPPAM018.jpg"
+         alt="mortaio">
+    <figcaption>Modello di artiglieria, mortaio da bomba - produzione italiana (sec. XVIII) </figcaption>
+</figure>
+
+
+
+<figure>
+    <img src="https://sigecweb.beniculturali.it/images/fullsize/ICCD1071161/ICCD15660853_MPPAM033.jpg"
+         alt="cannone mobile">
+    <figcaption>6 Pfd Viertelschlange (modello di artiglieria, quarta colubrina) - produzione austriaca (secc. XVII/ XVIII)</figcaption>
+</figure>
+
 
 > 🧭
 > - [Next ⏭](Museo-Di-Palazzo-Poggi.md) 
