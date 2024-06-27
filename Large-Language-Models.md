@@ -162,7 +162,7 @@ Searching for information related to the cultural events of interest, generation
 #### 4. Gemini
 Gemini is a family of large language models developed by Google DeepMind. Gemini’s strengths include code comprehension and generation, multilingualism and, most importantly, multimodal capabilities. This is what really sets Gemini apart: unlike most LLMs trained solely on text, Gemini can process various data formats simultaneously, including text, images, audio, video, and even computer code. This allows it to understand and respond to information in richer ways.
 
-Versions: 
+#### Versions: 
 
 Gemini Ultra: excelling in scientific tasks and code comprehension
 
@@ -181,7 +181,9 @@ Searching for information related to the cultural events of interest and their d
 Gemini and Mistral were not always updated and accurate in giving information. For example, we were not sure whether the Collezione Marsili was exposed in Museo di Palazzo Poggi because there was little information about it on the Internet so we asked LLMs for help. 
 
 Which notable pieces of the Marsili collection are held in the museum Palazzo Poggi? (Zero-shot prompting: no examples provided of what the desired output should look like) 
+
 Mistral AI: I apologize for any confusion, but the Marsili Collection is not housed in the Museum of Palazzo Poggi in Bologna. The museum primarily focuses on the Aldrovandi Collection and other collections related to the history of the University of Bologna and its scientific and artistic achievements.
+
 
 Gemini: The information available suggests that Palazzo Poggi doesn't house a collection specifically by Luigi Ferdinando Marsili himself.
 
@@ -191,6 +193,7 @@ However, we found out that the museum does host the collection thanks to the Arc
 To find fitting descriptions, we asked LLMs to help us and noticed that their replies were fine tuned according to the input they received. They remained generic and did not satisfy us when using zero-shot prompts, on the contrary when we asked more specific questions we received the answers we aimed at. 
 
 Give me a brief history of the Istituto delle Scienze (Alma Mater Studiorum of Bologna) in Palazzo Poggi and its foundation, in chronological steps. (Chain-Of-Thought-  Prompting-> Encourage the model to follow a multi-step reasoning process to arrive at an answer.)
+
 
 Mistral: 
 Construction of Palazzo Poggi (16th century): Palazzo Poggi was built in the 16th century by the Bolognese architect Alfonso Torreggiani for the Poggi family, who were prominent Bolognese nobles.
