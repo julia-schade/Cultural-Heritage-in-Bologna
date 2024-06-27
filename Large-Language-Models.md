@@ -81,6 +81,7 @@ Q: "Give me a query using Sparql in order to check if there is a page about Pell
 
 A: "To query the Arco Ontology to check if there is a page about Pellegrino Tibaldi, you can use the following SPARQL query:
 
+````SPARQL
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 
 PREFIX arco: <http://www.arco-project.org/ontology/>
@@ -96,6 +97,7 @@ WHERE {
   FILTER (regex(?name, "Pellegrino Tibaldi", "i"))
 
 }
+````
 
 This query does the following:
 Defines the necessary prefixes for foaf (Friend of a Friend vocabulary) and arco.
