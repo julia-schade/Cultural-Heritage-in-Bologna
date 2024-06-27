@@ -76,17 +76,26 @@ Q: "Give me a query using Sparql in order to check if there is a page about Pell
 A: "To query the Arco Ontology to check if there is a page about Pellegrino Tibaldi, you can use the following SPARQL query:
 
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
 PREFIX arco: <http://www.arco-project.org/ontology/>
  
 SELECT ?person ?name
+
 WHERE {
+
   ?person a foaf:Person ;
-      	foaf:name ?name .
+  
+       foaf:name ?name .
+ 
   FILTER (regex(?name, "Pellegrino Tibaldi", "i"))
+
 }
+
 This query does the following:
 Defines the necessary prefixes for foaf (Friend of a Friend vocabulary) and arco.
+
 Selects the ?person and ?name variables.
+
 Looks for instances where ?person is a foaf:Person and has a foaf:name.
 Filters the results to include only those whose name matches "Pellegrino Tibaldi", ignoring case sensitivity.
 You can run this query using a SPARQL endpoint provided by the Arco project or any other tool that allows you to run SPARQL queries."
@@ -96,12 +105,17 @@ We asked it to use ASK:
 A: "ASK query form in SPARQL will allow you to check if a certain piece of information exists without retrieving all the details. Here is how you can structure an ASK query to check if there is any mention of Pellegrino Tibaldi in the Arco Ontology:
 
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
 PREFIX arco: <http://www.arco-project.org/ontology/>
 
 ASK {
+
   ?person a foaf:Person ;
+  
           foaf:name ?name .
+ 
   FILTER (regex(?name, "Pellegrino Tibaldi", "i"))
+
 }
 
 This query does the following:
