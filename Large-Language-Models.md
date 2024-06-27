@@ -156,18 +156,25 @@ Codestral: fast and specialized in code
 All models were explored, the same question was asked with a different model to observe potential changes in the results. The most accurate and complete model resulted to be “Large” and was the one used the most. 
 
 
-Use:
+#### Use:
 Searching for information related to the cultural events of interest, generation of queries (inaccurate), inspiration for the enrichment of the knowledge graph. 
 
 #### 4. Gemini
 Gemini is a family of large language models developed by Google DeepMind. Gemini’s strengths include code comprehension and generation, multilingualism and, most importantly, multimodal capabilities. This is what really sets Gemini apart: unlike most LLMs trained solely on text, Gemini can process various data formats simultaneously, including text, images, audio, video, and even computer code. This allows it to understand and respond to information in richer ways.
+
 Versions: 
+
 Gemini Ultra: excelling in scientific tasks and code comprehension
+
 Gemini Pro: offering a good balance of capabilities for various tasks.
+
 Gemini Flash: Optimized for speed, ideal for real-time applications.
+
 Gemini Nano: Designed for use on smaller devices with lower processing power.
+
 As of today, Gemini 1.5 is the latest version, boasting an extended context window for improved understanding and response generation, especially in complex tasks. This was the version we decided to utilize for the purposes of this project. 
-Use:
+
+#### Use:
 Searching for information related to the cultural events of interest and their descriptions, generation of queries (inaccurate), inspiration for the enrichment of the knowledge graph. 
 
 #### Searching for information  
