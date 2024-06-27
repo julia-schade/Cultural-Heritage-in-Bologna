@@ -83,19 +83,12 @@ A: "To query the Arco Ontology to check if there is a page about Pellegrino Tiba
 
 ````SPARQL
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-
 PREFIX arco: <http://www.arco-project.org/ontology/>
- 
 SELECT ?person ?name
-
 WHERE {
-
   ?person a foaf:Person ;
-  
        foaf:name ?name .
- 
   FILTER (regex(?name, "Pellegrino Tibaldi", "i"))
-
 }
 ````
 
