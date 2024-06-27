@@ -16,9 +16,9 @@
 - [Tabs](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
 
 ## Large Language Models
-- [ChatGPT] (https://chatgpt.com)
-- [Mistral.ai] (https://mistral.ai)
-- [Gemini] (https://gemini.google.com/app)
+- [ChatGPT](https://chatgpt.com)
+- [Mistral.ai](https://mistral.ai)
+- [Gemini](https://gemini.google.com/app)
 
 <br />
 <br /> 
