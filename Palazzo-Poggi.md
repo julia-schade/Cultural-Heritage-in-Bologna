@@ -143,7 +143,7 @@ ORDER BY ?property
   </tr>
 </tbody></table>
 
-We see that the results are related to Palazzo Poggi (Monumental Area): 
+We notice a few results related to Palazzo Poggi (Monumental Area) which are particularly interesting: 
 - [Istituto delle Scienze](Istituto-Delle-Scienze.md)
 - [Museo della SPECOLA](Museo-Della-Specola.md)
 - [Museo di PALAZZO POGGI](Museo-Di-Palazzo-Poggi.md)
