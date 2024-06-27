@@ -192,7 +192,7 @@ However, we found out that the museum does host the collection thanks to the Arc
 #### Descriptions:
 To find fitting descriptions, we asked LLMs to help us and noticed that their replies were fine tuned according to the input they received. They remained generic and did not satisfy us when using zero-shot prompts, on the contrary when we asked more specific questions we received the answers we aimed at. 
 
-Give me a brief history of the Istituto delle Scienze (Alma Mater Studiorum of Bologna) in Palazzo Poggi and its foundation, in chronological steps. (Chain-Of-Thought-  Prompting-> Encourage the model to follow a multi-step reasoning process to arrive at an answer.)
+Give me a brief history of the Istituto delle Scienze (Alma Mater Studiorum of Bologna) in Palazzo Poggi and its foundation, in chronological steps. (**Chain-Of-Thought-  Prompting**-> Encourage the model to follow a multi-step reasoning process to arrive at an answer.)
 
 
 Mistral: 
@@ -220,7 +220,7 @@ What information could I add on the Arco Knowledge Graph related to Palazzo Pogg
 
 Tabella su documento 12
 
-We decided to break down the prompt into smaller sub-prompts and generate answers for each of them in order to build up a tree of thought that covers different topics and ideas we were interested in exploring (Tree-Of-Thought Prompting). In particular, we asked about the commissioner and architect of Palazzo Poggi (respectively Giovanni Poggi/the Poggi Family and Pellegrino Tibaldi and/or Bartolomeo Triachini). We proceeded to check if they were linked to Palazzo Poggi on the Arco Ontology and realized they were not.
+We decided to break down the prompt into smaller sub-prompts and generate answers for each of them in order to build up a tree of thought that covers different topics and ideas we were interested in exploring (**Tree-Of-Thought Prompting**). In particular, we asked about the commissioner and architect of Palazzo Poggi (respectively Giovanni Poggi/the Poggi Family and Pellegrino Tibaldi and/or Bartolomeo Triachini). We proceeded to check if they were linked to Palazzo Poggi on the Arco Ontology and realized they were not.
 
 Comparison of LLMs:
 
