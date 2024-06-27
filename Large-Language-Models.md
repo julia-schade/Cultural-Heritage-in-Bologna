@@ -145,13 +145,13 @@ For the purposes of this project, Mistral.ai was employed as well. Mistral.ai is
 
 Mistral's models are scalable, allowing for deployment in various applications from chatbots to complex data analysis tools.
 
-Large: top reasoning capacities
+**Large**: top reasoning capacities
 
-Next: prototype model with extra concision
+**Next**: prototype model with extra concision
 
-Small: fast and cost-effective
+**Small**: fast and cost-effective
 
-Codestral: fast and specialized in code
+**Codestral**: fast and specialized in code
 
 All models were explored, the same question was asked with a different model to observe potential changes in the results. The most accurate and complete model resulted to be “Large” and was the one used the most. 
 
@@ -164,13 +164,13 @@ Gemini is a family of large language models developed by Google DeepMind. Gemini
 
 #### Versions: 
 
-Gemini Ultra: excelling in scientific tasks and code comprehension
+**Gemini Ultra**: excelling in scientific tasks and code comprehension
 
-Gemini Pro: offering a good balance of capabilities for various tasks.
+**Gemini Pro**: offering a good balance of capabilities for various tasks.
 
-Gemini Flash: Optimized for speed, ideal for real-time applications.
+**Gemini Flash**: Optimized for speed, ideal for real-time applications.
 
-Gemini Nano: Designed for use on smaller devices with lower processing power.
+**Gemini Nano**: Designed for use on smaller devices with lower processing power.
 
 As of today, Gemini 1.5 is the latest version, boasting an extended context window for improved understanding and response generation, especially in complex tasks. This was the version we decided to utilize for the purposes of this project. 
 
@@ -182,10 +182,10 @@ Gemini and Mistral were not always updated and accurate in giving information. F
 
 Which notable pieces of the Marsili collection are held in the museum Palazzo Poggi? (Zero-shot prompting: no examples provided of what the desired output should look like) 
 
-Mistral AI: I apologize for any confusion, but the Marsili Collection is not housed in the Museum of Palazzo Poggi in Bologna. The museum primarily focuses on the Aldrovandi Collection and other collections related to the history of the University of Bologna and its scientific and artistic achievements.
+**Mistral AI**: I apologize for any confusion, but the Marsili Collection is not housed in the Museum of Palazzo Poggi in Bologna. The museum primarily focuses on the Aldrovandi Collection and other collections related to the history of the University of Bologna and its scientific and artistic achievements.
 
 
-Gemini: The information available suggests that Palazzo Poggi doesn't house a collection specifically by Luigi Ferdinando Marsili himself.
+**Gemini**: The information available suggests that Palazzo Poggi doesn't house a collection specifically by Luigi Ferdinando Marsili himself.
 
 However, we found out that the museum does host the collection thanks to the Arco ontology and received confirmation by ChatGPT. 
 
