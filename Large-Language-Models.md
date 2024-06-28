@@ -206,7 +206,7 @@ Here are some examples of how we decided to use them:
   
 Q: "Give me a description of Palazzo Poggi in Bologna in English." 
 
-This was a **zero-shot prompting**, that contains no examples or demonstrations and directly tells the model to perform a task without additional examples to guide it.
+This was a zero-shot prompting, that contains no examples or demonstrations and directly tells the model to perform a task without additional examples to guide it.
 
 A: "Palazzo Poggi is a historical building located in Bologna, Italy. It was constructed in the mid-16th century and showcases Renaissance architecture. Originally built for the Poggi family, it later became the seat of the University of Bologna. The palazzo now houses several university museums, including the Museum of Palazzo Poggi, which features collections related to natural history, physics, anatomy, and astronomy. The interior is renowned for its elaborate frescoes by prominent artists of the period, such as Pellegrino Tibaldi and Niccolò dell’Abbate. Palazzo Poggi is a significant cultural and educational landmark, reflecting Bologna's rich history in art and science. </td>
 
@@ -216,32 +216,32 @@ Then I asked the same question, but adding something more specific.
 
  Q: Give me a description of Palazzo Poggi in Bologna in English and divide the answer in some parts.
 
-This was a **prompt chaining**, that breaks down tasks into its subtasks, in order to improve the understanding and the performance of the model. 
+This was a <i>prompt chaining</i>, that breaks down tasks into its subtasks, in order to improve the understanding and the performance of the model. 
 
 A: Palazzo Poggi: 
 
-##### A Historical and Architectural Gem in Bologna 
+A Historical and Architectural Gem in Bologna
 
 Palazzo Poggi, located in the heart of Bologna, Italy, is a renowned historical palace that now serves as the headquarters of the University of Bologna. This magnificent building is not only a center of academic life but also a treasure trove of history, art, and architecture.
 
 
-##### Historical Background
+Historical Background
 
 The construction of Palazzo Poggi began in the mid-16th century under the commission of Alessandro Poggi, a prominent figure of the time. Designed by the renowned architect Bartolomeo Triachini, the palace was initially intended to serve as a private residence for the Poggi family. Over the centuries, it has undergone several transformations, reflecting the rich tapestry of Bologna's cultural and academic evolution.
 In the late 18th century, the palace was acquired by the Institute of Sciences, and later, in the 19th century, it became part of the University of Bologna. Today, it houses the University Museums, including the Museo di Palazzo Poggi, which showcases a wide array of scientific collections, artworks, and historical artifacts.
 
 
-##### Architectural Features
+Architectural Features
 
 Palazzo Poggi is a splendid example of Renaissance architecture with its elegant facade and intricate interior design. The building's exterior is characterized by its symmetrical proportions, grand entrance, and decorative elements that reflect the architectural trends of the period. Inside, visitors can marvel at the beautifully frescoed ceilings, majestic staircases, and richly adorned rooms. The Hall of Maps, a highlight of the palace, features stunning frescoes depicting various maps and celestial charts, illustrating the scientific knowledge and artistic skill of the time. Another notable room is the Hall of Hercules, which is adorned with frescoes narrating the mythological tales of Hercules.
 
 
-##### Cultural and Academic role
+Cultural and Academic role
 
 Palazzo Poggi is not only an architectural masterpiece but also a hub of cultural and academic activity. It hosts a variety of exhibitions, conferences, and events that contribute to the vibrant intellectual life of Bologna. The Museo di Palazzo Poggi is located within the palace.
 
 
-##### Visitor Information
+Visitor Information
 
 The palace is open to the public, with guided tours available for those who wish to delve deeper into its historical and architectural significance. Whether you are an architecture enthusiast, a history buff, or simply looking to explore the cultural heritage of Bologna, Palazzo Poggi promises an enriching and memorable experience.
 Palazzo Poggi is a must-visit destination in Bologna. With its stunning architecture, rich history, and ongoing commitment to scientific research and education, the palace is a true gem of the city and a testament to the enduring legacy of the University of Bologna. 
