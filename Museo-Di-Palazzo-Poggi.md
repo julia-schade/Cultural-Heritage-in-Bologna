@@ -307,8 +307,8 @@ SELECT DISTINCT ?object ?depiction WHERE {
 </table>
 
 
-
-
+<br />
+<br />
 
 > 🧭
 > - [Next ⏭](Museo-Della-Specola.md) 
