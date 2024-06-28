@@ -275,9 +275,9 @@ WHERE {
 This query does the following:
 Defines the necessary prefixes for *foaf* (Friend of a Friend vocabulary) and *arco.
 
-Selects the ?person and ?name variables.
+Selects the `?person` and `?name` variables.
 
-Looks for instances where ?person is a foaf:Person and has a foaf:name.
+Looks for instances where `?person` is a `foaf:Person` and has a `foaf:name`.
 Filters the results to include only those whose name matches "Pellegrino Tibaldi", ignoring case sensitivity.
 You can run this query using a SPARQL endpoint provided by the Arco project or any other tool that allows you to run SPARQL queries."
 
