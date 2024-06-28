@@ -253,7 +253,7 @@ WHERE {
 ````
 
 This query does the following:
-Defines the necessary prefixes for *foaf* (Friend of a Friend vocabulary) and *arco.
+Defines the necessary prefixes for *foaf* (Friend of a Friend vocabulary) and *arco*.
 
 Selects the `?person` and `?name` variables.
 
