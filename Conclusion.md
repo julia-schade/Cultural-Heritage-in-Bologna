@@ -18,7 +18,7 @@ To conclude, this project turned out to be extremely interesting and challenged 
 5. We found problems with completeness and accuracy in all models, especially in Mistral and Gemini. For example, when we asked for specific items from the collections under analysis, none of the models were able to give us complete answers, instead they were too vague.
 6. Furthermore, when trying to use the self-consistency prompt, we noticed that the answers given were never the same as each other and were not precise. So, we have verified that LLMs are not 100% reliable.
 7. Github was a great plattform in simplifying the workload of creating a webpage, but it took a lot of time to study the guides and to learn the mechanism e. g. how it receives different coding languages. Thus, it was necessary to define our coding style beforehand.
-8. Another limitation for us was, that compared to working on tools like google docs were simultanious work is possible, here only one person was able to wok on on page at a time, it would not take the new update if another person edited before the own update. Our only solution for this was to communicate more to prevent setbacks and reimplementation of content, which was rather time extensive.
+8. Another limitation for us was the lack of simultaneousness, compared to working on tools like google docs where simultanious work is possible, here only one person was able to wok on on page at a time, it would not save the new update if another person edited before the own update. Our only solution for this was to communicate more to prevent setbacks and reimplementation of content, which was rather time extensive.
 
 
 > 🧭
