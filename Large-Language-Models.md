@@ -74,7 +74,7 @@ However, we found out that the museum does host the collection thanks to the Arc
 #### Descriptions:
 To find fitting descriptions, we asked LLMs to help us and noticed that their replies were fine tuned according to the input they received. They remained generic and did not satisfy us when using zero-shot prompts, on the contrary when we asked more specific questions we received the answers we aimed at. 
 
-Give me a brief history of the Istituto delle Scienze (Alma Mater Studiorum of Bologna) in Palazzo Poggi and its foundation, in chronological steps. (**Chain-Of-Thought-  Prompting** → Encourage the model to follow a multi-step reasoning process to arrive at an answer.)
+Q: Give me a brief history of the Istituto delle Scienze (Alma Mater Studiorum of Bologna) in Palazzo Poggi and its foundation, in chronological steps. (**Chain-Of-Thought-  Prompting** → Encourage the model to follow a multi-step reasoning process to arrive at an answer.)
 
 
 #### Mistral: 
@@ -101,7 +101,7 @@ We decided not to use Gemini for this phase because when asking for descriptions
 
 #### Inspiration for the enrichment of the knowledge graph:
 
-What information could I add on the Arco Knowledge Graph related to Palazzo Poggi? 
+Q: What information could I add on the Arco Knowledge Graph related to Palazzo Poggi? 
 
 <table width="100%" height="450" class="scroll-table">
     <tr>
@@ -198,7 +198,7 @@ It can understand and generate text in multiple languages, provide detailed resp
 
 During our research we discovered that, among the other Large Language Models, ChatGPT is the most accurate and the most updated. When asking the same questions to the other LLMs, ChatGPT was the one that gave us the most relevant and precise answers. For this reason, maybe, it is the most popular of them.
 
-Here are some examples of how we decided to use some of the engireering prompts with ChatGPT:
+Here are some examples of how we decided to use some of the prompt techniques with ChatGPT:
 
 <table height="450">
   <tr>
