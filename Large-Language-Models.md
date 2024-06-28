@@ -196,8 +196,8 @@ During our research we discovered that, among the other Large Language Models, C
 
 Here are some examples of how we decided to use them:
 
-<table width="200" height="450">
-<tbody><tr>
+<table height="450">
+<tr>
 <th>Zero-shot prompting</th>
 <th>Prompt chaining</th>
 </tr>
@@ -208,9 +208,7 @@ Here are some examples of how we decided to use them:
 
 This was a **zero-shot prompting**, that contains no examples or demonstrations and directly tells the model to perform a task without additional examples to guide it.
 
-A: "Palazzo Poggi is a historical building located in Bologna, Italy. It was constructed in the mid-16th century and showcases Renaissance architecture. Originally built for the Poggi family, it later became the seat of the University of Bologna. The palazzo now houses several university museums, including the Museum of Palazzo Poggi, which features collections related to natural history, physics, anatomy, and astronomy. The interior is renowned for its elaborate frescoes by prominent artists of the period, such as Pellegrino Tibaldi and Niccolò dell’Abbate. Palazzo Poggi is a significant cultural and educational landmark, reflecting Bologna's rich history in art and science. 
-
-</td>
+A: "Palazzo Poggi is a historical building located in Bologna, Italy. It was constructed in the mid-16th century and showcases Renaissance architecture. Originally built for the Poggi family, it later became the seat of the University of Bologna. The palazzo now houses several university museums, including the Museum of Palazzo Poggi, which features collections related to natural history, physics, anatomy, and astronomy. The interior is renowned for its elaborate frescoes by prominent artists of the period, such as Pellegrino Tibaldi and Niccolò dell’Abbate. Palazzo Poggi is a significant cultural and educational landmark, reflecting Bologna's rich history in art and science. </td>
 
 <td>
   
@@ -247,11 +245,11 @@ Palazzo Poggi is not only an architectural masterpiece but also a hub of cultura
 
 The palace is open to the public, with guided tours available for those who wish to delve deeper into its historical and architectural significance. Whether you are an architecture enthusiast, a history buff, or simply looking to explore the cultural heritage of Bologna, Palazzo Poggi promises an enriching and memorable experience.
 Palazzo Poggi is a must-visit destination in Bologna. With its stunning architecture, rich history, and ongoing commitment to scientific research and education, the palace is a true gem of the city and a testament to the enduring legacy of the University of Bologna. 
-
-</td>
 </tr>
-</tbody>
+</td> 
 </table>
+
+
 
 We also used the LLMs to enrich the knowledge graph and to check if the information that we got from the Arco ontology was actually true. 
 
