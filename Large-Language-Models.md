@@ -59,7 +59,7 @@ As of today, Gemini 1.5 is the latest version, boasting an extended context wind
 ##### Use:
 Searching for information related to the cultural events of interest and their descriptions, generation of queries (inaccurate), inspiration for the enrichment of the knowledge graph. 
 
-##### Searching for information  
+##### Searching for information:  
 Gemini and Mistral were not always updated and accurate in giving information. For example, we were not sure whether the Collezione Marsili was exposed in Museo di Palazzo Poggi because there was little information about it on the Internet so we asked LLMs for help. 
 
 Which notable pieces of the Marsili collection are held in the museum Palazzo Poggi? (Zero-shot prompting: no examples provided of what the desired output should look like) 
