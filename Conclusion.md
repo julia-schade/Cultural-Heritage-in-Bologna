@@ -14,6 +14,10 @@ To conclude, this project turned out to be extremely interesting and challenged 
 1. Structuring the queries due to the fact that we did not understand how to properly use the prefixes. We discovered that ChatGPT and the other LLMs sometimes "invent" properties that do not exist on Arco. So we found out that we could check the prefixes on the namespaces tables available on Virtuoso.
 2. While for Aldrovandi collection all the items were directly linked to it, for Marsili collection there was not a direct link: we had to pass through a middle step "rdf: type a-cd: CollectionMembership". For this reason, we had to explore the knowledge graph to get the pictures and the categories of the items (e.g. ScientificandTechnologicalHeritage, and HistoricOrArtisticProperty). --> proposal of expansion
 3. After struggling because of many discrepancies in Collezione Marsili, we discovered that the items were archived in two different collections: [Collezione Marsili](https://w3id.org/arco/resource/CollectionCulEnt/-bologna-collezione-marsili) and [Collezioni Marsili](https://w3id.org/arco/resource/CollectionCulEnt/-bologna-collezioni-marsili).
+4. As regards Large Language Models, we tried to use Llama by Meta and at first it was working, but at some point it started to ask if we were human. Therefore, we couldn’t use it.
+5. We found problems with completeness and accuracy in all models, especially in Mistral and Gemini. For example, when we asked for specific items from the collections under analysis, none of the models were able to give us complete answers, instead they were too vague.
+6. Furthermore, when trying to use the self-consistency prompt, we noticed that the answers given were never the same as each other and were not precise. So, we have verified that LLMs are not 100% reliable.
+
 
 > 🧭
 > - [Next ⏭](Sources.md) 
