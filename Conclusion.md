@@ -1,4 +1,4 @@
-# 3. Conclusion
+# Conclusion
 
 This project aimed to enhance the cultural heritage of the University of Bologna, with a particular focus on the ancient collections of *Palazzo Poggi*, once the seat of the ancient Istituto delle Scienze. We sought to accomplish this objective by bringing together three institutions that are closely linked to the past and present of Palazzo Poggi and that house an important cultural treasure: *Istituto delle Scienze*, *Museo Palazzo Poggi*, and *Museo della Specola*. For each of these institutions, we aimed to explore the items they currently preserve and their possible connections with other elements and figures. Specifically, we focused on the contributions of two collectors, *Ulisse Aldrovandi* and *Luigi Ferdinando Marsili*, to the collections currently housed at Palazzo Poggi. Additionally, we wanted to provide examples of these precious objects by including some photos at the end of the pages dedicated to each museum.
 
@@ -17,6 +17,8 @@ To conclude, this project turned out to be extremely interesting and challenged 
 4. As regards Large Language Models, we tried to use Llama by Meta and at first it was working, but at some point it started to ask if we were human. Therefore, we couldn’t use it.
 5. We found problems with completeness and accuracy in all models, especially in Mistral and Gemini. For example, when we asked for specific items from the collections under analysis, none of the models were able to give us complete answers, instead they were too vague.
 6. Furthermore, when trying to use the self-consistency prompt, we noticed that the answers given were never the same as each other and were not precise. So, we have verified that LLMs are not 100% reliable.
+7. Github was a great plattform in simplifying the workload of creating a webpage, but it took a lot of time to study the guides and to learn the mechanism e. g. how it receives different coding languages. Thus, it was necessary to define our coding style beforehand.
+8. Another limitation for us was, that compared to working on tools like google docs were simultanious work is possible, here only one person was able to wok on on page at a time, it would not take the new update if another person edited before the own update. Our solution for this was to communicate more. 
 
 
 > 🧭
