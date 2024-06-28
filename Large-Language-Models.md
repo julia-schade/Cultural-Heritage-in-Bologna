@@ -97,9 +97,6 @@ Tabella su documento 12
 
 We decided to break down the prompt into smaller sub-prompts and generate answers for each of them in order to build up a tree of thought that covers different topics and ideas we were interested in exploring (**Tree-Of-Thought Prompting**). In particular, we asked about the commissioner and architect of Palazzo Poggi (respectively Giovanni Poggi/the Poggi Family and Pellegrino Tibaldi and/or Bartolomeo Triachini). We proceeded to check if they were linked to Palazzo Poggi on the Arco Ontology and realized they were not.
 
-Comparison of LLMs:
-
-Tabella
 
 #### 2. ChatGPT
 
@@ -223,6 +220,8 @@ This query will return true if there is at least one instance of a person named 
 
 We run the query on Sparql and it appeared to be “False”, so there is no instance of a person named Pellegrino Tibaldi" in the ontology
 
+Comparison of LLMs:
+Tabella
 
 <br />
 
