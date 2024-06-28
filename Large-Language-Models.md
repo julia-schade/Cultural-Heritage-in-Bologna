@@ -195,6 +195,7 @@ We decided to break down the prompt into smaller sub-prompts and generate answer
 
 ChatGPT, acronym of Generative Pretrained Transformer, is a sophisticated language model created by OpenAI. Its primary function is to assist users by generating human-like text based on the prompts and questions it receive.
 It can understand and generate text in multiple languages, provide detailed responses on a wide range of topics, and help with tasks like writing, brainstorming, translating, and answering factual questions. 
+
 During our research we discovered that, among the other Large Language Models, ChatGPT is the most accurate and the most updated. When asking the same questions to the other LLMs, ChatGPT was the one that gave us the most relevant and precise answers. For this reason, maybe, it is the most popular of them.
 
 Here are some examples of how we decided to use them:
@@ -261,7 +262,7 @@ Looks for instances where `?person` is a `foaf:Person` and has a `foaf:name`.
 Filters the results to include only those whose name matches "Pellegrino Tibaldi", ignoring case sensitivity.
 You can run this query using a SPARQL endpoint provided by the Arco project or any other tool that allows you to run SPARQL queries."
 
-We asked it to use ASK:
+  We asked it to use ASK:
 
 A: "ASK query form in SPARQL will allow you to check if a certain piece of information exists without retrieving all the details. Here is how you can structure an ASK query to check if there is any mention of Pellegrino Tibaldi in the Arco Ontology:
 
@@ -285,9 +286,9 @@ This query does the following:
 
 This query will return true if there is at least one instance of a person named "Pellegrino Tibaldi" in the ontology, and false otherwise.
 
-We run the query on Sparql and it appeared to be “False”, so there is no instance of a person named "Pellegrino Tibaldi" in the ontology
+  We run the query on Sparql and it appeared to be “False”, so there is no instance of a person named "Pellegrino Tibaldi" in the ontology
 
-Comparison of LLMs:
+#### Comparison of LLMs:
 
 <table border="1" cellpadding="10">
   <tr>
