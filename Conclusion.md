@@ -9,7 +9,7 @@ To achieve this, we divided the work and used various tools that proved essentia
 
 To conclude, this project turned out to be extremely interesting and challenged us in a field that may seem very distant from our studies, but it enriched our  linguistic knowledge with a different approach that could be very useful in our future, especially for those who wish to continue working in the academic field. We strongly believe that this project can be useful for expanding and improving the ARCO knowledge graph and enhancing the cultural heritage of the University of Bologna, starting with Palazzo Poggi, which is too often underestimated.
 
-## Limitations
+## Problems encountered
 
 1. Structuring the queries due to the fact that we did not understand how to properly use the prefixes. We discovered that ChatGPT and the other LLMs sometimes "invent" properties that do not exist on Arco. So we found out that we could check the prefixes on the namespaces tables available on Virtuoso.
 2. While for Aldrovandi collection all the items were directly linked to it, for Marsili collection there was not a direct link: we had to pass through a middle step "rdf: type a-cd: CollectionMembership". For this reason, we had to explore the knowledge graph to get the pictures and the categories of the items (e.g. ScientificandTechnologicalHeritage, and HistoricOrArtisticProperty). --> proposal of expansion
