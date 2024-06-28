@@ -273,7 +273,7 @@ WHERE {
 ````
 
 This query does the following:
-Defines the necessary prefixes for foaf (Friend of a Friend vocabulary) and arco.
+Defines the necessary prefixes for *foaf* (Friend of a Friend vocabulary) and *arco.
 
 Selects the ?person and ?name variables.
 
@@ -298,9 +298,9 @@ ASK {
 ````
 
 This query does the following:
-1.	Defines the necessary prefixes for foaf (Friend of a Friend vocabulary) and arco.
+1.	Defines the necessary prefixes for *foaf* (Friend of a Friend vocabulary) and *arco*.
 2.	Uses the ASK query form to return a boolean value.
-3.	Checks for instances where ?person is a foaf:Person and has a foaf:name.
+3.	Checks for instances where `?person` is a `foaf:Person` and has a `foaf:name`.
 4.	Applies a filter to match the name "Pellegrino Tibaldi" (case insensitive).
 
 This query will return true if there is at least one instance of a person named "Pellegrino Tibaldi" in the ontology, and false otherwise.
