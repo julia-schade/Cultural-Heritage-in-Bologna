@@ -1,6 +1,6 @@
 # Istituto delle Scienze
 
-<img src="https://live.staticflickr.com/7097/7251395776_26c2b62abc_b.jpg" alt="Library of Istituto delle Scienze">
+<img src="https://nonocentenario.comune.bologna.it/wp-content/uploads/2016/04/Accademia-delle-scienze-dell%E2%80%99Istituto-di-Bologna-%C2%A9Unibo-1.jpg" alt="Istituto delle Scienze">
 
 The Istituto delle Scienze, housed in Palazzo Poggi, is part of the Alma Mater Studiorum of Bologna. The foundation of the institute traces back to the 18th century, a period marked by significant advancements in scientific thought and education. 
 
