@@ -204,7 +204,7 @@ Here are some examples of how we decided to use them:
 <tr>
 <td valign="top">
   
-> Q: "Give me a description of Palazzo Poggi in Bologna in English." 
+Q: "Give me a description of Palazzo Poggi in Bologna in English." 
 
 This was a **zero-shot prompting**, that contains no examples or demonstrations and directly tells the model to perform a task without additional examples to guide it.
 
@@ -214,7 +214,7 @@ A: "Palazzo Poggi is a historical building located in Bologna, Italy. It was con
   
 Then I asked the same question, but adding something more specific.
 
-> Q: Give me a description of Palazzo Poggi in Bologna in English and divide the answer in some parts.
+ Q: Give me a description of Palazzo Poggi in Bologna in English and divide the answer in some parts.
 
 This was a **prompt chaining**, that breaks down tasks into its subtasks, in order to improve the understanding and the performance of the model. 
 
@@ -255,13 +255,13 @@ We also used the LLMs to enrich the knowledge graph and to check if the informat
 
 So, we used ChatGPT to check if there was any information about Pellegrino Tibaldi (one of the possible architects) contained in the Arco ontology: 
 
-> Q: "Is there a page on Arco ontology knowledge graph about Pellegrino Tibaldi?" (zero-shot prompt)
+ Q: "Is there a page on Arco ontology knowledge graph about Pellegrino Tibaldi?" (zero-shot prompt)
 
 A: "There doesn't appear to be a specific page on the Arco ontology knowledge graph about Pellegrino Tibaldi. You might want to directly search the Arco project site or contact them for detailed information."
 
 And then we asked: 
 
-> Q: "Give me a query using Sparql in order to check if there is a page about Pellegrino Tibaldi on the Arco Ontology."
+ Q: "Give me a query using Sparql in order to check if there is a page about Pellegrino Tibaldi on the Arco Ontology."
 
 A: "To query the Arco Ontology to check if there is a page about Pellegrino Tibaldi, you can use the following SPARQL query:
 
