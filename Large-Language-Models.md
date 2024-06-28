@@ -10,7 +10,7 @@ There are different types of LLMs, with different characteristics: ChatGPT (by O
 
 Large Language Models were essential for the development of our project. We tried to use multiple models and the most effective ones were ChatGPT, Mistral and Gemini. All of them were useful in order to achieve different specific results and compare their functions.
 
-We used LLMs to create the definitions of the cultural heritage we examined in this project, to create some of the queries that we used in the first part of the project, and especially to check if the ones that we created were the right ones. We also used them to explain us something that we didn’t understand. 
+We used LLMs to create the definitions of the cultural heritage we examined in this project, to create some of the queries that we used in the first part of the project, and especially to check whether the ones we created were correct. We also used them when we needed further explanation or clarification on specific topics. 
 
 #### 1. Mistral
 
