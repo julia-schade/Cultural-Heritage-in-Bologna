@@ -74,7 +74,7 @@ However, we found out that the museum does host the collection thanks to the Arc
 #### Descriptions:
 To find fitting descriptions, we asked LLMs to help us and noticed that their replies were fine tuned according to the input they received. They remained generic and did not satisfy us when using zero-shot prompts, on the contrary when we asked more specific questions we received the answers we aimed at. 
 
-Give me a brief history of the Istituto delle Scienze (Alma Mater Studiorum of Bologna) in Palazzo Poggi and its foundation, in chronological steps. (**Chain-Of-Thought-  Prompting**-> Encourage the model to follow a multi-step reasoning process to arrive at an answer.)
+Give me a brief history of the Istituto delle Scienze (Alma Mater Studiorum of Bologna) in Palazzo Poggi and its foundation, in chronological steps. (**Chain-Of-Thought-  Prompting** → Encourage the model to follow a multi-step reasoning process to arrive at an answer.)
 
 
 Mistral: 
@@ -100,7 +100,89 @@ We decided not to use Gemini for this phase because when asking for descriptions
 
 What information could I add on the Arco Knowledge Graph related to Palazzo Poggi? 
 
-Tabella su documento 12
+<table width="100%" height="450" class="scroll-table">
+    <tr>
+      <th>Mistral</th>
+      <th>Gemini</th>
+    </tr>
+  <tbody>
+    <tr>
+      <td valign="top" width="50%">
+        Adding information to the ArCo Knowledge Graph related to Palazzo Poggi could include:
+        <ul>
+          <li>Historical information:
+            <ul>
+              <li>The date of construction of Palazzo Poggi</li>
+              <li>The architect who designed Palazzo Poggi</li>
+              <li>The family or individual who commissioned the construction of Palazzo Poggi</li>
+              <li>Any notable historical events that took place in or around Palazzo Poggi</li>
+            </ul>
+          </li>
+          <li>Architectural information:
+            <ul>
+              <li>The style of architecture used in Palazzo Poggi (e.g. Renaissance, Baroque, etc.)</li>
+              <li>The number of floors and rooms in Palazzo Poggi</li>
+              <li>Any notable features or details of the exterior or interior of Palazzo Poggi</li>
+            </ul>
+          </li>
+          <li>Cultural information:
+            <ul>
+              <li>The museums or collections housed in Palazzo Poggi</li>
+              <li>Any notable artworks or artifacts displayed in Palazzo Poggi</li>
+              <li>Any cultural events or festivals that take place in or around Palazzo Poggi</li>
+            </ul>
+          </li>
+          <li>Geographical information:
+            <ul>
+              <li>The address of Palazzo Poggi</li>
+              <li>The city and country where Palazzo Poggi is located</li>
+              <li>Any nearby landmarks or points of interest</li>
+            </ul>
+          </li>
+          <li>Other information:
+            <ul>
+              <li>Any awards or recognition that Palazzo Poggi has received</li>
+              <li>Any ongoing restoration or renovation projects at Palazzo Poggi</li>
+              <li>Any interesting facts or trivia about Palazzo Poggi</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        Basic Information:
+        <ul>
+          <li>arco:hasName: "Palazzo Poggi" (or its name in other languages)</li>
+          <li>arco:hasType: arco:Museum (or a more specific type if applicable)</li>
+          <li>schema:url: <a href="https://sma.unibo.it/it/il-sistema-museale/museo-di-palazzo-poggi">Link to the official website of the Palazzo Poggi Museum</a></li>
+          <li>geo:location: Geographical coordinates of the museum</li>
+        </ul>
+        Historical Information:
+        <ul>
+          <li>arco:wasFoundedIn: Year the building was constructed (1549-1560)</li>
+          <li>arco:hasHistoricalName: "Palazzo Poggi" (if there were any other historical names)</li>
+          <li>arco:hasArchitect: Include the architect's name(s) with URIs linking to relevant information sources (if attribution is confirmed)</li>
+          <li>arco:wasCommissionedBy: Include the name(s) of the person(s) who commissioned the building (Alessandro Poggi and his brother)</li>
+        </ul>
+        Collection Information:
+        <ul>
+          <li>arco:hasCollection: Link to the resource representing the Aldrovandi Collection (assuming it's defined in the knowledge graph)</li>
+          <li>arco:mayContain (or similar property): Link to resources representing specific types of objects within the collection (e.g., preserved animals, plants, models) - you might need to create these resources if not already defined.</li>
+        </ul>
+        Exhibition Information:
+        <ul>
+          <li>arco:hasHostedExhibition: Link to resources representing past or current exhibitions related to the museum's collections (if applicable) - you'd need to create resources for these exhibitions with details like title, dates, and description.</li>
+        </ul>
+        Additional Information:
+        <ul>
+          <li>schema:description: Provide a brief description of the museum, its history, and significance.</li>
+          <li>schema:image: Include an image of the Palazzo Poggi building.</li>
+          <li>schema:openingHours: Specify the opening hours of the museum.</li>
+          <li>schema:admissionFee: Mention any admission fees associated with visiting the museum.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 We decided to break down the prompt into smaller sub-prompts and generate answers for each of them in order to build up a tree of thought that covers different topics and ideas we were interested in exploring (**Tree-Of-Thought Prompting**). In particular, we asked about the commissioner and architect of Palazzo Poggi (respectively Giovanni Poggi/the Poggi Family and Pellegrino Tibaldi and/or Bartolomeo Triachini). We proceeded to check if they were linked to Palazzo Poggi on the Arco Ontology and realized they were not.
 
@@ -226,7 +308,34 @@ This query will return true if there is at least one instance of a person named 
 We run the query on Sparql and it appeared to be “False”, so there is no instance of a person named "Pellegrino Tibaldi" in the ontology
 
 Comparison of LLMs:
-Tabella
+
+<table border="1" cellpadding="10">
+  <tr>
+    <td width="25%"><strong>Models</strong></td>
+    <td width="25%"><strong>ChatGPT</strong></td>
+    <td width="25%"><strong>Mistral</strong></td>
+    <td width="25%"><strong>Gemini</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Completeness</strong></td>
+    <td valign="top">This model has a broad knowledge base that covers a wide variety of subjects, but its knowledge is not uniform and it can give more general information on some topics, for example when we asked to give us specific items of the museums.</td>
+    <td valign="top">This model misses properties, the queries generated are wrong and is not suitable when inquiring about the Arco ontology.</td>
+    <td valign="top">This model misses properties, the queries generated are wrong and is not suitable when inquiring about the Arco ontology.</td>
+  </tr>
+  <tr>
+    <td><strong>Accuracy</strong></td>
+    <td valign="top">This model is generally really accurate, but sometimes it can provide incorrect or misleading information due to biases in training data or misunderstanding the context of a question.</td>
+    <td valign="top">The model is not always accurate. For example, it gave wrong information for the descriptions (architect) and affirmed that Collezione Marsili was not housed in Palazzo Poggi.</td>
+    <td valign="top">The model is not always accurate. It gave wrong visiting hours and affirmed that Collezione Marsili was not housed in Palazzo Poggi.</td>
+  </tr>
+  <tr>
+    <td><strong>Clarity</strong></td>
+    <td valign="top">This model is the most clear, it provides explanations and summaries information.</td>
+    <td valign="top">The model gives overall clear answers, but takes the most to generate them.</td>
+    <td valign="top">The model gives answers fast, they are clear overall and often broken down into paragraphs to be understood more easily.</td>
+  </tr>
+</table>
+
 
 <br />
 
