@@ -62,7 +62,7 @@ Searching for information related to the cultural events of interest and their d
 #### Searching for information:  
 Gemini and Mistral were not always updated and accurate in giving information. For example, we were not sure whether the Collezione Marsili was exposed in Museo di Palazzo Poggi because there was little information about it on the Internet so we asked LLMs for help. 
 
-Which notable pieces of the Marsili collection are held in the museum Palazzo Poggi? (Zero-shot prompting: no examples provided of what the desired output should look like) 
+Q: Which notable pieces of the Marsili collection are held in the museum Palazzo Poggi? (Zero-shot prompting: no examples provided of what the desired output should look like) 
 
 **Mistral AI**: I apologize for any confusion, but the Marsili Collection is not housed in the Museum of Palazzo Poggi in Bologna. The museum primarily focuses on the Aldrovandi Collection and other collections related to the history of the University of Bologna and its scientific and artistic achievements.
 
