@@ -20,6 +20,8 @@ To conclude, this project turned out to be extremely interesting and challenged 
 7. Github was a great plattform in simplifying the workload of creating a webpage, but it took a lot of time to study the guides and to learn the mechanism e. g. how it receives different coding languages. Thus, it was necessary to define our coding style beforehand.
 8. Another limitation for us was the lack of simultaneousness, compared to google docs where simultanious work is possible, here only one person was able to wok on one page at a time, it would not save the new update if another person edited before the own update. Our only solution for this was to communicate more to prevent setbacks and reimplementation of content, which was rather time extensive.
 
+<br />
+<br />
 
 > 🧭
 > - [Next ⏭](Sources.md) 
