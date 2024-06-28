@@ -12,9 +12,16 @@ Large Language Models were essential for the development of our project. We trie
 
 We used LLMs to create the definitions of the cultural heritage we examined in this project, to create some of the queries that we used in the first part of the project, and especially to check whether the ones we created were correct. We also used them when we needed further explanation or clarification on specific topics. 
 
+##### Prompt Engineering
+
+We used several engineering prompts to achieve our purposes. Prompt engineering is the process of structuring an instruction that can be interpreted and understood by a generative AI model. So, a prompt is natural language text describing the task that an AI should perform.
+Prompt engineering may involve phrasing a query, specifying a style, providing relevant context or assigning a role to the AI.
+
+There are different types of prompt engineers: zero-shot prompting, few-shot prompting, chain-of-thought, generated-knowledge prompting, prompt chaining and tree-of-thought. We used several of them. 
+
 #### 1. Mistral
 
-For the purposes of this project, Mistral.ai was employed as well. Mistral.ai is a large language model developed by a team of researchers and engineers at the French company Hugging Face. The model is designed to generate human-like text based on input prompts, and it is capable of understanding and responding to a wide variety of natural language queries and commands. Its key features include: advanced architecture, high performance, scalability and versatility. Its size and complexity make it one of the most advanced language models available today.
+For the purposes of this project, Mistral.ai was employed. Mistral.ai is a large language model developed by a team of researchers and engineers at the French company Hugging Face. The model is designed to generate human-like text based on input prompts, and it is capable of understanding and responding to a wide variety of natural language queries and commands. Its key features include: advanced architecture, high performance, scalability and versatility. Its size and complexity make it one of the most advanced language models available today.
 
 ##### Scalability: 
 
@@ -106,13 +113,6 @@ Tabella
 ChatGPT, acronym of Generative Pretrained Transformer, is a sophisticated language model created by OpenAI. Its primary function is to assist users by generating human-like text based on the prompts and questions it receive.
 It can understand and generate text in multiple languages, provide detailed responses on a wide range of topics, and help with tasks like writing, brainstorming, translating, and answering factual questions. 
 During our research we discovered that, among the other Large Language Models, ChatGPT is the most accurate and the most updated. When asking the same questions to the other LLMs, ChatGPT was the one that gave us the most relevant and precise answers. For this reason, maybe, it is the most popular of them.
-
-##### Prompt Engineering
-
-We used several engineering prompts to achieve our purposes. Prompt engineering is the process of structuring an instruction that can be interpreted and understood by a generative AI model. So, a prompt is natural language text describing the task that an AI should perform.
-Prompt engineering may involve phrasing a query, specifying a style, providing relevant context or assigning a role to the AI.
-
-There are different types of prompt engineers: zero-shot prompting, few-shot prompting, chain-of-thought, generated-knowledge prompting, prompt chaining and tree-of-thought. We used several of them. 
 
 Here are some examples of how we decided to use them:
 
