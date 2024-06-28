@@ -284,7 +284,7 @@ This query does the following:
 3.	Checks for instances where `?person` is a `foaf:Person` and has a `foaf:name`.
 4.	Applies a filter to match the name "Pellegrino Tibaldi" (case insensitive).
 
-This query will return true if there is at least one instance of a person named "Pellegrino Tibaldi" in the ontology, and false otherwise.
+This query will return true if there is at least one instance of a person named "Pellegrino Tibaldi" in the ontology, and false otherwise."
 
   We run the query on Sparql and it appeared to be “False”, so there is no instance of a person named "Pellegrino Tibaldi" in the ontology
 
