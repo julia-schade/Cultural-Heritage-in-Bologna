@@ -29,7 +29,7 @@ The palace is open to the public, with guided tours available for those who wish
 
 Palazzo Poggi is a must-visit destination in Bologna. With its stunning architecture, rich history, and ongoing commitment to scientific research and education, the palace is a true gem of the city and a testament to the enduring legacy of the University of Bologna. 
 
-#### 4. We want to know which Sites are related to the Monumental Area labeled as *Palazzo Poggi*?
+#### 4. We want to know which Sites are related to the Monumental Area labeled as *Palazzo Poggi*
 
 ```SPARQL
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -80,7 +80,7 @@ We filter with `?site` and with `?label`
   </tr>
 </tbody></table>
 
-5. Now we want to know what are the distinct **properties and objects** related to the resource?
+5. Now we want to know what are the distinct **properties and objects** related to the resource
 
 ```SPARQL
 PREFIX rdfs: <https://w3id.org/arco/resource/Site/27641117e6d58e7482a605fdf544a034>
