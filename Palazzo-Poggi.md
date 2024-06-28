@@ -148,6 +148,9 @@ We notice a few results related to Palazzo Poggi (Monumental Area) which are par
 - [Museo della SPECOLA](Museo-Della-Specola.md)
 - [Museo di PALAZZO POGGI](Museo-Di-Palazzo-Poggi.md)
 
+<br />
+<br />
+
 > 🧭
 > - [Next ⏭](Istituto-Delle-Scienze.md) 
 > - [Previous ⏮](Project-Prep.md) 
