@@ -14,10 +14,10 @@ We used LLMs to create the definitions of the cultural heritage we examined in t
 
 #### Prompt Engineering
 
-We used several engineering prompts to achieve our purposes. Prompt engineering is the process of structuring an instruction that can be interpreted and understood by a generative AI model. So, a prompt is natural language text describing the task that an AI should perform.
+We used prompt engineering to achieve our purposes. Prompt engineering is the process of structuring an instruction that can be interpreted and understood by a generative AI model. So, a prompt is natural language text describing the task that an AI should perform.
 Prompt engineering may involve phrasing a query, specifying a style, providing relevant context or assigning a role to the AI.
 
-There are different types of engineering prompts: zero-shot prompting, few-shot prompting, chain-of-thought, generated-knowledge prompting, prompt chaining and tree-of-thought. We used several of them. 
+There are different types of prompting techniques: zero-shot prompting, few-shot prompting, chain-of-thought, generated-knowledge prompting, prompt chaining and tree-of-thought. We used several of them. 
 
 #### 1. Mistral
 
