@@ -389,11 +389,8 @@ FILTER (REGEX(?collectionLabel, "collezione aldrovandi", "i"))
   </tr>
 </tbody></table>
 
-Now we have the raw basis for our project, as we were looking for *Collezione [Marsili](http://badigit.comune.bologna.it/mostre/archeologia/marsili.htm)* and *Collezione [Aldrovandi](https://www.museibologna.it/archeologico/schede/ulisse-aldrovandi-1522-1605-560/)* and the items related to them. Exploring the Arco knowledge graph we discovered that all the items are collected in [Palazzo Poggi](https://w3id.org/arco/resource/MonumentalArea/palazzo-poggi)
+Now we have the raw basis for our project, in particular we have a vast selection of items belonging both to *Collezione [Marsili](http://badigit.comune.bologna.it/mostre/archeologia/marsili.htm)* and *Collezione [Aldrovandi](https://www.museibologna.it/archeologico/schede/ulisse-aldrovandi-1522-1605-560/)*. Exploring the Arco knowledge graph we discovered that all the items are collected in [Palazzo Poggi](https://w3id.org/arco/resource/MonumentalArea/palazzo-poggi)
 
-
-
-Summary: We found the objects and properties related to Palazzo Poggi, now we will continue investigating these pages more in detail to find items belonging to Collezione Marsili and Collezione Aldrovandi.
 
 > 🧭 
 > - [Next ⏭](Palazzo-Poggi.md) 
