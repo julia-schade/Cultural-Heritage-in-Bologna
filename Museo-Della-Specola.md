@@ -268,7 +268,8 @@ SELECT DISTINCT ?object ?depiction WHERE {
 </table>
 
 
-
+<br />
+<br />
 
 
 > 🧭
