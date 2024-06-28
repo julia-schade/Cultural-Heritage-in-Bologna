@@ -17,8 +17,8 @@ To conclude, this project turned out to be extremely interesting and challenged 
 4. As regards Large Language Models, we tried to use Llama by Meta and at first it was working, but at some point it started to ask if we were human. Therefore, we couldn’t use it.
 5. We found problems with completeness and accuracy in all models, especially in Mistral and Gemini. For example, when we asked for specific items from the collections under analysis, none of the models were able to give us complete answers, instead they were too vague.
 6. Furthermore, when trying to use the self-consistency prompt, we noticed that the answers given were never the same as each other and were not precise. So, we have verified that LLMs are not 100% reliable.
-7. Github was a great plattform in simplifying the workload of creating a webpage, but it took a lot of time to study the guides and to learn the mechanism e. g. how it receives different coding languages. Thus, it was necessary to define our coding style beforehand.
-8. Another limitation for us was the lack of simultaneousness, compared to google docs where simultanious work is possible, here only one person was able to wok on one page at a time, it would not save the new update if another person edited before the own update. Our only solution for this was to communicate more to prevent setbacks and reimplementation of content, which was rather time extensive.
+7. Github was a great platform in simplifying the workload of creating a webpage, but it took a lot of time to study the guides and to learn the mechanism, e. g. how it receives different coding languages. Thus, it was necessary to define our coding style beforehand.
+8. Another limitation was the impossibility to commit each change simultaneously, compared to Google Docs where simultaneous work is possible. By contrast, here only one person was able to work on one page at a time: Github would not let us save the new update if another person edited right before. Our only solution for this was to communicate more to prevent setbacks and reimplementation of content, which would have been rather time-consuming.
 
 <br />
 <br />
