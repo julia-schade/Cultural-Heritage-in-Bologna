@@ -16,9 +16,7 @@ However, despite the large number of items belonging to these two great collecto
 The Project is integrated part of the exam in _IT Skills, Computer Studies and Human Sciences_,
 Summer-Term 2024 at University of Bologna.
 
-## Index
-
-### Methodology
+## Methodology
 1. We created a repository on Github (Julia).
 2. We started from one of the examples that we found on Arco website.
 3. We explored the knowledge graph to define our topic using SPARQL (Chiara and Gianluca). In this way, we connected different elements to our general topic in order to complete the project.
@@ -26,7 +24,7 @@ Summer-Term 2024 at University of Bologna.
 5. We individuated a few details that could be added and improved on the knowledge graph.
 6. We created the final website.
 
-### Navigation
+## Navigation
 Access the following pages to learn more about our project:
 
 1. [Project Preparations](Project-Prep.md)
