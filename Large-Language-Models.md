@@ -198,7 +198,7 @@ It can understand and generate text in multiple languages, provide detailed resp
 
 During our research we discovered that, among the other Large Language Models, ChatGPT is the most accurate and the most updated. When asking the same questions to the other LLMs, ChatGPT was the one that gave us the most relevant and precise answers. For this reason, maybe, it is the most popular of them.
 
-Here are some examples of how we decided to use them:
+Here are some examples of how we decided to use some of the engireering prompts with ChatGPT:
 
 <table height="450">
   <tr>
