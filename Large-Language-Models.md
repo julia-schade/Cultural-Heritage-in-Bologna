@@ -46,7 +46,7 @@ Gemini is a family of large language models developed by Google DeepMind. Gemini
 
 #### Versions: 
 
-**Gemini Ultra**: excelling in scientific tasks and code comprehension
+**Gemini Ultra**: excelling in scientific tasks and code comprehension.
 
 **Gemini Pro**: offering a good balance of capabilities for various tasks.
 
