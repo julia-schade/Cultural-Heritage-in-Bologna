@@ -6,7 +6,7 @@
 
 ## Pictures
 - [Picture 1](https://www.medconf2024.org/en/poggi-palace/)
-- [Picture 2](https://www.flickr.com/photos/42807077@N07/7251395776/in/photostream/)
+- [Picture 2](https://nonocentenario.comune.bologna.it/accademia-delle-scienze-dellistituto-di-bologna/)
 - [Picture 3](https://sma.unibo.it/it/il-sistema-museale/museo-di-palazzo-poggi/collezioni/gallery)
 - [Picture 4](https://www.ilrestodelcarlino.it/bologna/cronaca/specola-bologna-lavori-restauro-mys3gi3m)
 
